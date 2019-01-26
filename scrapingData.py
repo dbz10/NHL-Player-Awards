@@ -9,9 +9,9 @@ from bs4 import BeautifulSoup
 #from datetime import datetime
 
 # specify the url
-addresses = ["http://www.repository.voxforge1.org/downloads/sq/Trunk/Audio/Original/48kHz_16bit/"]
+years = range(1923,2017 + 1)
+addresses = ["https://www.hockey-reference.com/awards/voting-{}.html#all-hart-stats".format(yr) for yr in years]
 for pg in addresses:
-    i=1
     r = requests.get(pg)
     # parse the html using beautiful soup and store in variable `soup`
     soup = BeautifulSoup(r.text, "html.parser")
@@ -22,5 +22,4 @@ for pg in addresses:
             filename = 'vf_{}.tgz'.format(i)
             urllib.request.urlretrieve(download_url,'./'+filename) 
             print(filename)
-            i += 1
             time.sleep(1) #pause the code for a sec
