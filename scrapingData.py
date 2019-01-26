@@ -2,11 +2,10 @@
 
 # import libraries
 import requests
-import urllib.request
 import time
 from bs4 import BeautifulSoup
 import csv 
-from datetime import datetime
+
 
 # specify the url
 years = range(1923,2017 + 1)
@@ -22,6 +21,6 @@ for pg in addresses:
         
             
 with open('hart.csv', 'w', newline='') as csvfile:
-    spamwriter = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    spamwriter.writerow(['Spam'] * 5 + ['Baked Beans'])
-    spamwriter.writerow(['Spam', 'Lovely Spam', 'Wonderful Spam'])
+    hockeywriter = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    hockeywriter.writerow(['Spam'] * 5 + ['Baked Beans'])
+    hockeywriter.writerow(['Spam', 'Lovely Spam', 'Wonderful Spam'])
