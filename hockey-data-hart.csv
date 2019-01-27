@@ -1,0 +1,1123 @@
+Year,player,age,team_id,pos,votes,pct_of_vote,first,second,third,fourth,fifth,goals,assists,points,plus_minus,wins_goalie,losses_goalie,ties_goalie,goals_against_avg,save_pct,ops,dps,gps,ps
+1924,Frank Nighbor,31,Ottawa Senators,C,,,,,,,,11,6,17,,,,,,,2.7,0.6,0.0,3.3
+1924,Sprague Cleghorn,33,Montreal Canadiens,D,,,,,,,,8,4,12,,,,,,,1.7,3.5,0.0,5.2
+1925,Billy Burch,24,Hamilton Tigers,C,79,26.78,,,,,,20,6,26,,,,,,,5.1,0.8,0.0,5.9
+1925,Howie Morenz,22,Montreal Canadiens,C,60,20.34,,,,,,27,12,39,,,,,,,7.9,1.1,0.0,8.9
+1925,Clint Benedict,32,Montreal Maroons,G,58,19.66,,,,,,0,0,0,,9,19,2,2.12,,0.0,0.0,6.2,6.2
+1925,Babe Dye,26,Toronto St. Patricks,RW,50,16.95,,,,,,38,8,46,,,,,,,11.1,0.6,0.0,11.7
+1925,Aurele Joliat,23,Montreal Canadiens,LW,48,16.27,,,,,,30,12,42,,,,,,,8.9,0.9,0.0,9.8
+1926,Nels Stewart,23,Montreal Maroons,C,88,16.96,,,,,,34,8,42,,,,,,,10.9,0.9,0.0,11.8
+1926,Sprague Cleghorn,35,Boston Bruins,D,75,14.45,,,,,,6,8,14,,,,,,,2.2,2.2,0.0,4.4
+1926,Frank Nighbor,33,Ottawa Senators,C,68,13.10,,,,,,12,14,26,,,,,,,3.8,1.4,0.0,5.2
+1926,Roy Worters,25,Pittsburgh Pirates,G,44,8.48,,,,,,0,0,0,,18,16,1,1.90,,0.0,0.0,7.2,7.2
+1926,Hooley Smith,23,Ottawa Senators,RW,44,8.48,,,,,,16,9,25,,,,,,,5.0,1.1,0.0,6.1
+1926,Howie Morenz,23,Montreal Canadiens,C,34,6.55,,,,,,23,3,26,,,,,,,6.8,0.3,0.0,7.1
+1926,Jimmy Herbert,28,Boston Bruins,C,33,6.36,,,,,,26,9,35,,,,,,,8.3,0.7,0.0,9.1
+1926,King Clancy,22,Ottawa Senators,D,28,5.39,,,,,,8,4,12,,,,,,,2.0,5.7,0.0,7.7
+1926,Charles Stewart,30,Boston Bruins,G,24,4.62,,,,,,0,0,0,,16,14,4,2.21,,0.0,0.0,5.9,5.9
+1926,Lionel Conacher,24,Pittsburgh Pirates,D,24,4.62,,,,,,9,6,15,,,,,,,2.8,3.6,0.0,6.4
+1926,Billy Burch,25,New York Americans,C,18,3.47,,,,,,21,3,24,,,,,,,6.3,0.7,0.0,7.0
+1926,Reg Noble,29,Montreal Maroons,D,14,2.70,,,,,,9,9,18,,,,,,,3.5,3.5,0.0,7.0
+1926,Bert McCaffrey,32,Toronto St. Patricks,D,13,2.50,,,,,,14,9,23,,,,,,,5.1,1.3,0.0,6.4
+1926,Babe Siebert,22,Montreal Maroons,LW,12,2.31,,,,,,16,7,23,,,,,,,4.6,0.9,0.0,5.5
+1927,Herb Gardiner,35,Montreal Canadiens,D,89,24.05,,,,,,6,7,13,,,,,,,2.2,5.6,0.0,7.7
+1927,Bill Cook,30,New York Rangers,RW,85,22.97,,,,,,33,4,37,,,,,,,11.2,1.3,0.0,12.5
+1927,Frank Fredrickson,31,TOT,C,75,20.27,,,,,,18,13,31,,,,,,,6.6,0.8,0.0,7.4
+1927,Dick Irvin,34,Chicago Black Hawks,C,73,19.73,,,,,,18,18,36,,,,,,,7.7,0.4,0.0,8.1
+1927,King Clancy,23,Ottawa Senators,D,48,12.97,,,,,,10,10,20,,,,,,,4.0,5.3,0.0,9.3
+1928,Howie Morenz,25,Montreal Canadiens,C,131,31.41,,,,,,33,18,51,,,,,,,14.4,1.5,0.0,15.9
+1928,Roy Worters,27,Pittsburgh Pirates,G,91,21.82,,,,,,0,0,0,,19,17,8,1.66,,0.0,0.0,8.5,8.5
+1928,Eddie Shore,25,Boston Bruins,D,84,20.14,,,,,,11,6,17,,,,,,,4.5,4.9,0.0,9.4
+1928,George Hay,30,Detroit Cougars,LW,73,17.51,,,,,,22,13,35,,,,,,,8.8,1.0,0.0,9.8
+1928,Ching Johnson,29,New York Rangers,D,38,9.11,,,,,,10,6,16,,,,,,,4.0,4.0,0.0,8.0
+1929,Roy Worters,28,New York Americans,G,74,23.87,,,,,,0,0,0,,16,12,10,1.15,,0.0,0.0,8.2,8.2
+1929,Ace Bailey,25,Toronto Maple Leafs,RW,64,20.65,,,,,,22,10,32,,,,,,,10.2,0.9,0.0,11.1
+1929,Eddie Shore,26,Boston Bruins,D,62,20.00,,,,,,12,7,19,,,,,,,7.5,4.6,0.0,12.0
+1929,Sylvio Mantha,26,Montreal Canadiens,D,60,19.35,,,,,,9,4,13,,,,,,,4.6,5.5,0.0,10.2
+1929,King Clancy,25,Ottawa Senators,D,50,16.13,,,,,,13,2,15,,,,,,,6.0,3.5,0.0,9.5
+1930,Nels Stewart,27,Montreal Maroons,C,101,16.40,,,,,,39,16,55,,,,,,,9.1,1.0,0.0,10.1
+1930,Lionel Hitchman,28,Boston Bruins,D,94,15.26,,,,,,2,7,9,,,,,,,0.3,4.5,0.0,4.9
+1930,Cooney Weiland,25,Boston Bruins,C,79,12.82,,,,,,43,30,73,,,,,,,11.2,1.3,0.0,12.5
+1930,King Clancy,26,Ottawa Senators,D,77,12.50,,,,,,17,23,40,,,,,,,5.8,4.0,0.0,9.8
+1930,Frank Boucher,28,New York Rangers,C,75,12.18,,,,,,26,36,62,,,,,,,7.6,0.7,0.0,8.2
+1930,Normie Himes,26,New York Americans,C,70,11.36,,,,,,28,22,50,,,,,,,6.6,0.5,0.0,7.1
+1930,Howie Morenz,27,Montreal Canadiens,C,60,9.74,,,,,,40,13,53,,,,,,,8.9,0.9,0.0,9.8
+1930,Charlie Gardiner,25,Chicago Black Hawks,G,60,9.74,,,,,,0,0,0,,21,18,5,2.42,,0.0,0.0,9.2,9.2
+1931,Howie Morenz,28,Montreal Canadiens,C,121,26.65,,,,,,28,23,51,,,,,,,9.7,0.9,0.0,10.5
+1931,Eddie Shore,28,Boston Bruins,D,106,23.35,,,,,,15,16,31,,,,,,,6.0,4.2,0.0,10.2
+1931,King Clancy,27,Toronto Maple Leafs,D,93,20.48,,,,,,7,14,21,,,,,,,2.7,4.9,0.0,7.6
+1931,Ebbie Goodfellow,23,Detroit Falcons,C/D,84,18.50,,,,,,25,23,48,,,,,,,8.2,0.8,0.0,9.0
+1931,Nels Stewart,28,Montreal Maroons,C,50,11.01,,,,,,25,14,39,,,,,,,7.5,0.7,0.0,8.2
+1932,Howie Morenz,29,Montreal Canadiens,C,,,,,,,,24,25,49,,,,,,,7.2,0.9,0.0,8.2
+1932,Ching Johnson,33,New York Rangers,D,,,,,,,,3,10,13,,,,,,,1.0,3.8,0.0,4.8
+1933,Eddie Shore,30,Boston Bruins,D,86,40.38,,,,,,8,27,35,,,,,,,5.1,4.6,0.0,9.8
+1933,Bill Cook,36,New York Rangers,RW,67,31.46,,,,,,28,22,50,,,,,,,8.4,0.9,0.0,9.3
+1933,John Ross Roach,32,Detroit Red Wings,G,60,28.17,,,,,,0,0,0,,25,15,8,1.88,,0.0,0.0,9.9,9.9
+1934,Aurele Joliat,32,Montreal Canadiens,LW,62,27.19,,,,,,21,15,36,,,,,,,5.6,1.0,0.0,6.5
+1934,Lionel Conacher,32,Chicago Black Hawks,D,56,24.56,,,,,,9,14,23,,,,,,,3.1,5.1,0.0,8.2
+1934,King Clancy,30,Toronto Maple Leafs,D,51,22.37,,,,,,11,17,28,,,,,,,4.2,3.1,0.0,7.2
+1934,Earl Seibert,22,New York Rangers,D,32,14.04,,,,,,13,10,23,,,,,,,3.6,3.3,0.0,6.9
+1934,Roy Worters,33,New York Americans,G,27,11.84,,,,,,0,0,0,,12,14,9,2.01,,0.0,0.0,7.2,7.2
+1935,Eddie Shore,32,Boston Bruins,D,102,31.19,,,,,,7,26,33,,,,,,,3.8,3.8,0.0,7.7
+1935,Charlie Conacher,25,Toronto Maple Leafs,RW,94,28.75,,,,,,36,21,57,,0,0,0,0.00,,9.3,0.9,0.0,10.2
+1935,Art Coulter,25,Chicago Black Hawks,D,56,17.13,,,,,,5,8,13,,,,,,,0.9,4.9,0.0,5.8
+1935,Frank Boucher,33,New York Rangers,C,39,11.93,,,,,,13,32,45,,,,,,,4.6,0.6,0.0,5.2
+1935,Aurele Joliat,33,Montreal Canadiens,LW,36,11.01,,,,,,17,12,29,,,,,,,3.2,0.6,0.0,3.7
+1936,Eddie Shore,33,Boston Bruins,D,55,28.95,,,,,,3,16,19,,,,,,,2.2,4.5,0.0,6.8
+1936,Hooley Smith,33,Montreal Maroons,C,39,20.53,,,,,,19,19,38,,,,,,,5.4,0.8,0.0,6.2
+1936,Sweeney Schriner,24,New York Americans,LW,38,20.00,,,,,,19,26,45,,,,,,,6.0,0.6,0.0,6.5
+1936,Charlie Conacher,26,Toronto Maple Leafs,RW,30,15.79,,,,,,23,15,38,,,,,,,6.7,0.8,0.0,7.4
+1936,Red Dutton,38,New York Americans,D,28,14.74,,,,,,5,8,13,,,,,,,1.5,2.2,0.0,3.6
+1937,Babe Siebert,33,Montreal Canadiens,LW/D,63,30.73,,,,,,8,20,28,,,,,,,2.1,0.9,0.0,3.1
+1937,Lionel Conacher,35,Montreal Maroons,D,43,20.98,,,,,,6,19,25,,,,,,,2.9,3.5,0.0,6.3
+1937,Ebbie Goodfellow,29,Detroit Red Wings,C/D,42,20.49,,,,,,9,16,25,,,,,,,1.7,1.0,0.0,2.8
+1937,Tiny Thompson,33,Boston Bruins,G,31,15.12,,,,,,0,0,0,,23,18,7,2.22,,0.0,0.0,8.8,8.8
+1937,Marty Barry,31,Detroit Red Wings,C,26,12.68,,,,,,17,27,44,,,,,,,5.1,1.0,0.0,6.1
+1938,Eddie Shore,35,Boston Bruins,D,68,30.49,,,,,,3,14,17,,,,,,,1.6,4.7,0.0,6.3
+1938,Paul Thompson,31,Chicago Black Hawks,LW,61,27.35,,,,,,22,22,44,,,,,,,4.8,0.6,0.0,5.4
+1938,Babe Siebert,34,Montreal Canadiens,D,38,17.04,,,,,,8,11,19,,,,,,,2.3,2.3,0.0,4.6
+1938,Gordie Drillon,24,Toronto Maple Leafs,RW,28,12.56,,,,,,26,26,52,,,,,,,6.7,0.8,0.0,7.4
+1938,Neil Colville,23,New York Rangers,C,28,12.56,,,,,,18,19,37,,,,,,,3.9,1.0,0.0,4.9
+1939,Toe Blake,26,Montreal Canadiens,LW,64,32.99,,,,,,24,23,47,,,,,,,5.2,0.5,0.0,5.7
+1939,Syl Apps,24,Toronto Maple Leafs,C,45,23.20,,,,,,15,25,40,,,,,,,3.9,0.8,0.0,4.8
+1939,Johnny Gottselig,33,Chicago Black Hawks,LW,30,15.46,,,,,,16,23,39,,,,,,,3.6,0.6,0.0,4.2
+1939,Earl Robertson,28,New York Americans,G,28,14.43,,,,,,0,0,0,,17,18,10,2.86,,0.0,0.0,5.3,5.3
+1939,Eddie Shore,36,Boston Bruins,D,27,13.92,,,,,,4,14,18,,,,,,,1.8,4.5,0.0,6.3
+1940,Ebbie Goodfellow,32,Detroit Red Wings,D,57,28.36,,,,,,11,18,29,,,,,,,3.4,2.7,0.0,6.1
+1940,Syl Apps,25,Toronto Maple Leafs,C,51,25.37,,,,,,13,17,30,,,,,,,3.7,0.5,0.0,4.2
+1940,Dit Clapper,32,Boston Bruins,D,40,19.90,,,,,,10,18,28,,,,,,,3.4,3.8,0.0,7.2
+1940,Milt Schmidt,21,Boston Bruins,C,32,15.92,,,,,,22,30,52,,,,,,,6.5,1.0,0.0,7.5
+1940,Earl Robertson,29,New York Americans,G,21,10.45,,,,,,0,0,0,,15,29,4,2.84,,0.0,0.0,5.6,5.6
+1941,Bill Cowley,28,Boston Bruins,C,88,23.10,,,,,,17,47,64,,,,,,,6.4,1.0,0.0,7.4
+1941,Dit Clapper,33,Boston Bruins,D,81,21.26,,,,,,8,18,26,,,,,,,2.6,4.3,0.0,6.9
+1941,Syl Apps,26,Toronto Maple Leafs,C,78,20.47,,,,,,20,24,44,,,,,,,5.1,1.0,0.0,6.0
+1941,Syd Howe,29,Detroit Red Wings,C,72,18.90,,,,,,20,24,44,,,,,,,4.1,1.1,0.0,5.2
+1941,Bryan Hextall,27,New York Rangers,RW,62,16.27,,,,,,26,21,47,,,,,,,4.9,0.9,0.0,5.8
+1942,Tom Anderson,31,Brooklyn Americans,D,86,31.62,,,,,,12,29,41,,,,,,,3.6,2.3,0.0,6.0
+1942,Syl Apps,27,Toronto Maple Leafs,C,48,17.65,,,,,,18,23,41,,,,,,,3.6,0.7,0.0,4.3
+1942,Lynn Patrick,29,New York Rangers,LW,46,16.91,,,,,,32,23,55,,,,,,,5.3,0.9,0.0,6.2
+1942,Bill Thoms,31,Chicago Black Hawks,C,46,16.91,,,,,,15,30,45,,,,,,,2.9,0.7,0.0,3.6
+1942,Frank Brimsek,26,Boston Bruins,G,46,16.91,,,,,,0,0,0,,24,17,6,2.35,,0.0,0.0,11.0,11.0
+1943,Bill Cowley,30,Boston Bruins,C,94,32.08,,,,,,27,45,72,,,,,,,5.4,0.9,0.0,6.3
+1943,Doug Bentley,26,Chicago Black Hawks,LW,67,22.87,,,,,,33,40,73,,,,,,,5.4,0.9,0.0,6.3
+1943,Syl Apps,28,Toronto Maple Leafs,C,46,15.70,,,,,,23,17,40,,,,,,,3.4,0.6,0.0,4.0
+1943,Syd Howe,31,Detroit Red Wings,C,46,15.70,,,,,,20,35,55,,,,,,,3.4,1.4,0.0,4.8
+1943,Frank Brimsek,27,Boston Bruins,G,40,13.65,,,,,,0,0,0,,24,17,9,3.52,,0.0,0.0,8.6,8.6
+1944,Babe Pratt,28,Toronto Maple Leafs,D,87,26.93,,,,,,17,41,58,,,,,,,4.0,4.6,0.0,8.7
+1944,Bill Cowley,31,Boston Bruins,C,84,26.01,,,,,,30,41,71,,,,,,,5.2,0.3,0.0,5.5
+1944,Doug Bentley,27,Chicago Black Hawks,LW,55,17.03,,,,,,38,39,77,,,,,,,5.2,1.1,0.0,6.3
+1944,Earl Seibert,32,Chicago Black Hawks,D,52,16.10,,,,,,8,25,33,,,,,,,1.5,4.4,0.0,5.9
+1944,Lorne Carr,33,Toronto Maple Leafs,RW,45,13.93,,,,,,36,38,74,,,,,,,5.3,1.2,0.0,6.4
+1945,Elmer Lach,27,Montreal Canadiens,C,116,32.04,,,,,,26,54,80,,,,,,,6.3,1.4,0.0,7.7
+1945,Maurice Richard,23,Montreal Canadiens,RW,79,21.82,,,,,,50,23,73,,,,,,,7.8,1.4,0.0,9.2
+1945,Bill Cowley,32,Boston Bruins,C,65,17.96,,,,,,25,40,65,,,,,,,5.0,0.6,0.0,5.6
+1945,Flash Hollett,32,Detroit Red Wings,D,54,14.92,,,,,,20,21,41,,,,,,,4.1,4.2,0.0,8.4
+1945,Syd Howe,33,Detroit Red Wings,C,48,13.26,,,,,,17,36,53,,,,,,,3.7,1.0,0.0,4.7
+1946,Max Bentley,25,Chicago Black Hawks,C,106,29.61,,,,,,31,30,61,,,,,,,6.1,0.7,0.0,6.7
+1946,Gaye Stewart,22,Toronto Maple Leafs,LW,89,24.86,,,,,,37,15,52,,,,,,,6.0,0.7,0.0,6.6
+1946,Bill Durnan,30,Montreal Canadiens,G,70,19.55,,,,,,0,0,0,,24,11,5,2.60,,0.0,0.0,9.2,9.2
+1946,Harry Lumley,19,Detroit Red Wings,G,52,14.53,,,,,,0,0,0,,20,20,10,3.18,,0.0,0.0,9.0,9.0
+1946,Jack Stewart,28,Detroit Red Wings,D,41,11.45,,,,,,4,11,15,,,,,,,0.8,3.4,0.0,4.2
+1947,Maurice Richard,25,Montreal Canadiens,RW,48,88.89,12,6,0,,,45,26,71,,,,,,,8.3,1.4,0.0,9.7
+1947,Milt Schmidt,28,Boston Bruins,C,28,51.85,4,6,4,,,27,35,62,,,,,,,5.6,1.1,0.0,6.6
+1947,Max Bentley,26,Chicago Black Hawks,C,12,22.22,2,2,2,,,29,43,72,,,,,,,6.6,0.2,0.0,6.9
+1947,Turk Broda,32,Toronto Maple Leafs,G,7,12.96,0,3,1,,,0,0,0,,31,19,10,2.87,,0.0,0.0,11.6,11.6
+1947,Chuck Rayner,26,New York Rangers,G,7,12.96,0,1,5,,,0,0,0,,22,30,6,3.05,,0.0,0.0,10.2,10.2
+1948,Buddy O'Connor,31,New York Rangers,C,36,80.00,10,2,2,,,24,36,60,,,,,,,5.6,0.7,0.0,6.3
+1948,Frank Brimsek,32,Boston Bruins,G,18,40.00,2,4,4,,,0,0,0,,23,24,13,2.80,,0.0,0.0,10.7,10.7
+1948,Elmer Lach,30,Montreal Canadiens,C,13,28.89,1,5,0,,,30,31,61,,,,,,,6.5,1.0,0.0,7.5
+1948,Max Bentley,27,TOT,C,10,22.22,2,1,2,,,26,28,54,,,,,,,5.1,1.1,0.0,6.2
+1949,Sid Abel,30,Detroit Red Wings,C,43,39.81,11,4,2,,,28,26,54,,,,,,,6.2,1.0,0.0,7.3
+1949,Bill Durnan,33,Montreal Canadiens,G,36,33.33,6,8,2,,,0,0,0,,28,23,9,2.10,,0.0,0.0,13.9,13.9
+1949,Roy Conacher,32,Chicago Black Hawks,LW,5,4.63,1,1,0,,,26,42,68,,,,,,,7.0,0.5,0.0,7.4
+1949,Ted Lindsay,23,Detroit Red Wings,LW,4,3.70,0,2,0,,,26,28,54,,,,,,,6.5,0.9,0.0,7.4
+1949,Paul Ronty,20,Boston Bruins,C,4,3.70,0,1,2,,,20,29,49,,,,,,,4.7,0.9,0.0,5.6
+1949,Doug Bentley,32,Chicago Black Hawks,C,4,3.70,0,0,4,,,23,43,66,,,,,,,6.5,0.4,0.0,7.0
+1949,Chuck Rayner,28,New York Rangers,G,3,2.78,,,,,,0,0,0,,16,31,11,2.90,,0.0,0.0,8.6,8.6
+1949,Harry Watson,25,Toronto Maple Leafs,LW,2,1.85,,,,,,26,19,45,,,,,,,4.7,0.9,0.0,5.6
+1949,Ken Mosdell,26,Montreal Canadiens,C,2,1.85,,,,,,17,9,26,,,,,,,1.8,1.3,0.0,3.1
+1950,Chuck Rayner,29,New York Rangers,G,36,66.67,8,6,0,,,0,0,0,,28,30,11,2.62,,0.0,0.0,12.3,12.3
+1950,Ted Kennedy,24,Toronto Maple Leafs,C,23,42.59,4,3,5,,,20,24,44,,,,,,,4.2,0.9,0.0,5.1
+1950,Maurice Richard,28,Montreal Canadiens,RW,18,33.33,3,2,5,,,43,22,65,,,,,,,8.0,1.4,0.0,9.4
+1950,Sid Abel,31,Detroit Red Wings,C,10,18.52,0,3,4,,,34,35,69,,,,,,,8.0,1.2,0.0,9.2
+1950,Milt Schmidt,31,Boston Bruins,C,6,11.11,1,1,1,,,19,22,41,,,,,,,3.1,0.7,0.0,3.8
+1950,Bill Durnan,34,Montreal Canadiens,G,6,11.11,2,0,0,,,0,1,1,,26,21,17,2.20,,0.0,0.0,14.2,14.2
+1950,Edgar Laprade,30,New York Rangers,C,3,5.56,0,1,1,,,22,22,44,,,,,,,4.3,0.8,0.0,5.1
+1950,Ted Lindsay,24,Detroit Red Wings,LW,3,5.56,0,1,1,,,23,55,78,,,,,,,7.8,1.2,0.0,9.0
+1950,Turk Broda,35,Toronto Maple Leafs,G,2,3.70,0,1,0,,,0,0,0,,30,25,12,2.47,,0.0,0.0,13.1,13.1
+1950,Red Kelly,22,Detroit Red Wings,D,1,1.85,0,0,1,,,15,25,40,,,,,,,4.8,4.8,0.0,9.6
+1951,Milt Schmidt,32,Boston Bruins,C,40,74.07,10,4,2,,,22,39,61,,,,,,,6.2,0.8,0.0,7.0
+1951,Maurice Richard,29,Montreal Canadiens,RW,28,51.85,5,4,5,,,42,24,66,,,,,,,8.6,1.0,0.0,9.6
+1951,Red Kelly,23,Detroit Red Wings,D,11,20.37,1,2,4,,,17,37,54,,,,,,,6.3,5.8,0.0,12.1
+1951,Gordie Howe,22,Detroit Red Wings,RW,11,20.37,0,5,1,,,43,43,86,,,,,,,10.6,1.5,0.0,12.1
+1951,Ted Kennedy,25,Toronto Maple Leafs,C,8,14.81,0,2,4,,,18,43,61,,,,,,,5.4,1.4,0.0,6.7
+1951,Bert Olmstead,24,TOT,RW,6,11.11,2,0,0,,,18,23,41,,,,,,,3.8,0.6,0.0,4.5
+1951,Bill Quackenbush,28,Boston Bruins,D,2,3.70,0,1,0,,,5,24,29,,,,,,,2.4,3.7,0.0,6.1
+1951,Al Rollins,24,Toronto Maple Leafs,G,1,1.85,0,0,1,,,0,0,0,,26,6,7,1.77,,0.0,0.0,10.4,10.4
+1951,Roy Conacher,34,Chicago Black Hawks,LW,1,1.85,0,0,1,,,26,24,50,,,,,,,4.8,0.2,0.0,5.0
+1952,Gordie Howe,23,Detroit Red Wings,RW,62,77.50,9,5,2,,,47,39,86,,,,,,,11.6,1.5,0.0,13.1
+1952,Elmer Lach,34,Montreal Canadiens,C,46,57.50,3,10,1,,,15,50,65,,,,,,,5.2,1.3,0.0,6.4
+1952,Jim Henry,31,Boston Bruins,G,14,17.50,2,0,4,,,0,0,0,,25,29,16,2.47,,0.0,0.0,12.2,12.2
+1952,Terry Sawchuk,22,Detroit Red Wings,G,13,16.25,1,1,5,,,0,0,0,,44,14,12,1.90,,0.0,0.0,16.6,16.6
+1952,Milt Schmidt,33,Boston Bruins,C,13,16.25,1,2,2,,,21,29,50,,,,,,,4.4,1.1,0.0,5.4
+1953,Gordie Howe,24,Detroit Red Wings,RW,58,64.44,9,4,1,,,49,46,95,,,,,,,14.1,1.4,0.0,15.5
+1953,Al Rollins,26,Chicago Black Hawks,G,25,27.78,3,3,1,,,0,0,0,,27,28,15,2.50,,0.0,0.0,10.5,10.5
+1953,Red Kelly,25,Detroit Red Wings,D,25,27.78,2,3,6,,,19,27,46,,,,,,,6.5,5.8,0.0,12.2
+1953,Gerry McNeil,26,Montreal Canadiens,G,16,17.78,3,0,1,,,0,0,0,,25,23,18,2.09,,0.0,0.0,13.1,13.1
+1953,Ted Kennedy,27,Toronto Maple Leafs,C,12,13.33,1,2,1,,,14,23,37,,,,,,,4.0,0.6,0.0,4.7
+1954,Al Rollins,27,Chicago Black Hawks,G,80,30.53,50,30,,,,0,0,0,,12,47,7,3.21,,0.0,0.0,4.3,4.3
+1954,Red Kelly,26,Detroit Red Wings,D,74,28.24,40,34,,,,16,33,49,,,,,,,6.2,5.1,0.0,11.3
+1954,Maurice Richard,32,Montreal Canadiens,RW,44,16.79,20,24,,,,37,30,67,,,,,,,8.8,1.4,0.0,10.1
+1954,Gordie Howe,25,Detroit Red Wings,RW,33,12.60,22,11,,,,33,48,81,,,,,,,10.2,1.4,0.0,11.6
+1954,Harry Lumley,27,Toronto Maple Leafs,G,31,11.83,10,21,,,,0,0,0,,32,24,13,1.86,,0.0,0.0,15.6,15.6
+1955,Ted Kennedy,29,Toronto Maple Leafs,C,86,38.74,40,46,,,,10,42,52,,,,,,,3.8,1.5,0.0,5.3
+1955,Harry Lumley,28,Toronto Maple Leafs,G,61,27.48,23,38,,,,0,0,0,,23,24,22,1.91,,0.0,0.0,16.2,16.2
+1955,Maurice Richard,33,Montreal Canadiens,RW,36,16.22,19,17,,,,38,36,74,,,,,,,9.1,1.3,0.0,10.3
+1955,Jean Beliveau,23,Montreal Canadiens,C,21,9.46,14,7,,,,37,36,73,,,,,,,8.7,1.3,0.0,10.0
+1955,Doug Harvey,30,Montreal Canadiens,D,18,8.11,7,11,,,,6,43,49,,,,,,,4.5,5.2,0.0,9.7
+1956,Jean Beliveau,24,Montreal Canadiens,C,94,29.28,53,41,,,,47,41,88,,,,,,,11.5,1.5,0.0,13.0
+1956,Tod Sloan,28,Toronto Maple Leafs,C,86,26.79,14,72,,,,37,29,66,,,,,,,8.3,1.0,0.0,9.3
+1956,Gump Worsley,26,New York Rangers,G,72,22.43,55,17,,,,0,0,0,,32,28,10,2.83,.923,0.0,0.0,8.8,8.8
+1956,Red Kelly,28,Detroit Red Wings,D,25,7.79,14,11,,,,16,34,50,,,,,,,6.0,5.2,0.0,11.2
+1956,Doug Harvey,31,Montreal Canadiens,D,11,3.43,6,5,,,,5,39,44,,,,,,,4.1,5.5,0.0,9.6
+1956,Johnny Wilson,26,Chicago Black Hawks,LW,10,3.12,,,,,,24,9,33,,,,,,,2.9,0.6,0.0,3.6
+1956,Gordie Howe,27,Detroit Red Wings,RW,8,2.49,,,,,,38,41,79,,,,,,,10.0,1.3,0.0,11.3
+1956,Andy Bathgate,23,New York Rangers,RW,6,1.87,,,,,,19,47,66,,,,,,,6.0,0.8,0.0,6.7
+1956,Maurice Richard,34,Montreal Canadiens,RW,6,1.87,,,,,,38,33,71,,,,,,,8.7,1.5,0.0,10.2
+1956,Ted Lindsay,30,Detroit Red Wings,LW,3,0.93,,,,,,27,23,50,,,,,,,5.6,1.2,0.0,6.9
+1957,Gordie Howe,28,Detroit Red Wings,RW,111,38.95,43,68,,,,44,45,89,,,,,,,10.5,1.3,0.0,11.8
+1957,Jean Beliveau,25,Montreal Canadiens,C,58,20.35,51,7,,,,33,51,84,,,,,,,8.8,1.3,0.0,10.2
+1957,Andy Bathgate,24,New York Rangers,RW,51,17.89,0,51,,,,27,50,77,,,,,,,7.5,0.7,0.0,8.1
+1957,Terry Sawchuk,27,Boston Bruins,G,35,12.28,35,0,,,,0,0,0,,18,10,6,2.38,.920,0.0,0.0,6.6,6.6
+1957,Doug Harvey,32,Montreal Canadiens,D,17,5.96,15,2,,,,6,44,50,,,,,,,4.4,5.4,0.0,9.8
+1957,Ed Litzenberger,24,Chicago Black Hawks,RW,13,4.56,,,,,,32,32,64,,,,,,,6.6,0.7,0.0,7.3
+1958,Gordie Howe,29,Detroit Red Wings,RW,105,32.61,47,58,,,,33,44,77,,,,,,,7.9,0.8,0.0,8.8
+1958,Andy Bathgate,25,New York Rangers,RW,70,21.74,11,59,,,,30,48,78,,,,,,,7.8,1.0,0.0,8.8
+1958,Doug Harvey,33,Montreal Canadiens,D,41,12.73,27,14,,,,9,32,41,,,,,,,3.6,5.4,0.0,9.0
+1958,Henri Richard,21,Montreal Canadiens,C,40,12.42,30,10,,,,28,52,80,,,,,,,7.3,1.3,0.0,8.6
+1958,Glenn Hall,26,Chicago Black Hawks,G,37,11.49,23,14,,,,0,0,0,,24,39,7,2.86,.906,0.0,0.0,11.0,11.0
+1958,Bill Gadsby,30,New York Rangers,D,9,2.80,,,,,,14,32,46,,,,,,,4.8,4.1,0.0,8.8
+1958,Camille Henry,25,New York Rangers,LW,6,1.86,,,,,,32,24,56,,,,,,,5.5,1.1,0.0,6.6
+1958,Dickie Moore,27,Montreal Canadiens,LW,4,1.24,,,,,,36,48,84,,,,,,,8.3,1.4,0.0,9.7
+1958,Fleming MacKell,28,Boston Bruins,C,3,0.93,,,,,,20,40,60,,,,,,,4.5,1.1,0.0,5.5
+1959,Andy Bathgate,26,New York Rangers,RW,133,48.54,67,66,,,,40,48,88,,,,,,,9.0,0.9,0.0,9.9
+1959,Gordie Howe,30,Detroit Red Wings,RW,60,21.90,36,24,,,,32,46,78,,,,,,,7.5,0.9,0.0,8.4
+1959,Jean Beliveau,27,Montreal Canadiens,C,36,13.14,0,36,,,,45,46,91,,,,,,,9.8,1.3,0.0,11.0
+1959,Terry Sawchuk,29,Detroit Red Wings,G,34,12.41,31,3,,,,0,0,0,,23,36,8,3.09,.896,0.0,0.0,9.6,9.6
+1959,Dickie Moore,28,Montreal Canadiens,LW,11,4.01,1,10,,,,41,55,96,,,,,,,9.6,1.4,0.0,11.0
+1960,Gordie Howe,31,Detroit Red Wings,RW,118,43.38,59,59,,,,28,45,73,16,,,,,,6.4,1.1,0.0,7.4
+1960,Bobby Hull,21,Chicago Black Hawks,LW,55,20.22,31,24,,,,39,42,81,27,,,,,,8.0,1.2,0.0,9.2
+1960,Glenn Hall,28,Chicago Black Hawks,G,44,16.18,0,44,,,,0,1,1,,28,29,13,2.56,.918,0.0,0.0,14.0,14.0
+1960,Jean Beliveau,28,Montreal Canadiens,C,28,10.29,,,,,,34,40,74,20,,,,,,7.3,1.0,0.0,8.4
+1960,Bert Olmstead,33,Toronto Maple Leafs,LW,27,9.93,,,,,,15,21,36,-3,,,,,,2.4,0.9,0.0,3.3
+1961,Bernie Geoffrion,29,Montreal Canadiens,RW,84,29.27,29,55,,,,50,45,95,3,,,,,,10.5,1.1,0.0,11.6
+1961,Johnny Bower,36,Toronto Maple Leafs,G,71,24.74,48,23,,,,0,0,0,,33,15,10,2.50,.922,0.0,0.0,12.1,12.1
+1961,Gordie Howe,32,Detroit Red Wings,RW,66,23.00,32,34,,,,23,49,72,-5,,,,,,5.8,0.9,0.0,6.7
+1961,Frank Mahovlich,23,Toronto Maple Leafs,C/LW,41,14.29,34,7,,,,48,36,84,23,,,,,,9.0,1.4,0.0,10.4
+1961,Glenn Hall,29,Chicago Black Hawks,G,25,8.71,9,16,,,,0,1,1,,29,24,17,2.53,.920,0.0,0.0,14.4,14.4
+1962,Jacques Plante,33,Montreal Canadiens,G,94,29.01,40,54,,,,0,0,0,,42,14,14,2.37,.923,0.0,0.0,15.6,15.6
+1962,Doug Harvey,37,New York Rangers,D,60,18.52,53,7,,,,6,24,30,-9,,,,,,1.9,4.3,0.0,6.2
+1962,Bobby Hull,23,Chicago Black Hawks,LW,53,16.36,0,53,,,,50,34,84,10,,,,,,8.8,1.2,0.0,10.0
+1962,Gordie Howe,33,Detroit Red Wings,RW,40,12.35,23,17,,,,33,44,77,12,,,,,,6.8,0.9,0.0,7.7
+1962,Andy Bathgate,29,New York Rangers,RW,31,9.57,10,21,,,,28,56,84,3,,,,,,6.8,1.1,0.0,7.9
+1962,Glenn Hall,30,Chicago Black Hawks,G,25,7.72,,,,,,0,0,0,,31,26,13,2.63,.914,0.0,0.0,13.8,13.8
+1962,Johnny Bower,37,Toronto Maple Leafs,G,16,4.94,,,,,,0,1,1,,31,18,10,2.56,.917,0.0,0.0,12.1,12.1
+1962,Red Kelly,34,Toronto Maple Leafs,C/D,4,1.23,,,,,,22,27,49,23,,,,,,4.0,1.1,0.0,5.0
+1962,Doug Mohns,28,Boston Bruins,D/RW,1,0.31,,,,,,16,29,45,-62,,,,,,4.2,0.9,0.0,5.0
+1963,Gordie Howe,34,Detroit Red Wings,RW,111,40.51,30,81,,,,38,48,86,23,,,,,,8.4,1.1,0.0,9.5
+1963,Stan Mikita,22,Chicago Black Hawks,RW,54,19.71,35,19,,,,31,45,76,26,,,,,,6.7,1.1,0.0,7.8
+1963,Terry Sawchuk,33,Detroit Red Wings,G,44,16.06,37,7,,,,0,0,0,,21,16,7,2.54,.912,0.0,0.0,9.3,9.3
+1963,Glenn Hall,31,Chicago Black Hawks,G,42,15.33,21,21,,,,0,0,0,,30,20,15,2.47,.918,0.0,0.0,13.6,13.6
+1963,Frank Mahovlich,25,Toronto Maple Leafs,C/LW,23,8.39,16,7,,,,36,37,73,22,,,,,,7.2,1.2,0.0,8.4
+1964,Jean Beliveau,32,Montreal Canadiens,C,102,31.78,82,20,,,,28,50,78,9,,,,,,7.5,1.2,0.0,8.7
+1964,Bobby Hull,25,Chicago Black Hawks,LW,58,18.07,32,26,,,,43,44,87,14,,,,,,9.7,1.2,0.0,10.9
+1964,Gordie Howe,35,Detroit Red Wings,RW,50,15.58,10,40,,,,26,47,73,-10,,,,,,6.7,0.9,0.0,7.5
+1964,Charlie Hodge,30,Montreal Canadiens,G,43,13.40,0,43,,,,0,0,0,,33,18,11,2.26,.920,0.0,0.0,13.3,13.3
+1964,Stan Mikita,23,Chicago Black Hawks,C,30,9.35,12,18,,,,39,50,89,21,,,,,,9.5,1.2,0.0,10.7
+1964,Glenn Hall,32,Chicago Black Hawks,G,25,7.79,,,,,,0,2,2,,34,19,11,2.30,.930,0.0,0.0,13.5,13.5
+1964,Kenny Wharram,30,Chicago Black Hawks,RW,3,0.93,,,,,,39,32,71,25,,,,,,7.7,1.2,0.0,9.0
+1964,Terry Sawchuk,34,Detroit Red Wings,G,3,0.93,,,,,,0,0,0,,25,20,7,2.64,.916,0.0,0.0,9.2,9.2
+1964,Johnny Bower,39,Toronto Maple Leafs,G,3,0.93,,,,,,0,0,0,,24,15,11,2.11,.932,0.0,0.0,11.5,11.5
+1964,Eddie Johnston,28,Boston Bruins,G,2,0.62,,,,,,0,0,0,,18,40,12,3.01,.914,0.0,0.0,9.6,9.6
+1964,Tim Horton,34,Toronto Maple Leafs,D,2,0.62,,,,,,9,20,29,10,,,,,,2.5,4.9,0.0,7.4
+1965,Bobby Hull,26,Chicago Black Hawks,LW,103,37.59,88,15,,,,39,32,71,23,,,,,,7.9,1.1,0.0,9.0
+1965,Norm Ullman,29,Detroit Red Wings,C,96,35.04,22,74,,,,42,41,83,15,,,,,,9.0,1.2,0.0,10.2
+1965,Gordie Howe,36,Detroit Red Wings,RW,35,12.77,9,26,,,,29,47,76,22,,,,,,7.0,1.2,0.0,8.2
+1965,Roger Crozier,22,Detroit Red Wings,G,24,8.76,8,16,,,,0,0,0,,40,22,7,2.42,.913,0.0,0.0,14.4,14.4
+1965,Charlie Hodge,31,Montreal Canadiens,G,16,5.84,16,0,,,,0,0,0,,26,16,10,2.60,.905,0.0,0.0,9.9,9.9
+1966,Bobby Hull,27,Chicago Black Hawks,LW,145,55.13,79,66,,,,54,43,97,19,,,,,,10.6,1.2,0.0,11.8
+1966,Jean Beliveau,34,Montreal Canadiens,C,59,22.43,3,56,,,,29,48,77,10,,,,,,6.4,1.2,0.0,7.7
+1966,Gordie Howe,37,Detroit Red Wings,RW,24,9.13,13,11,,,,29,46,75,19,,,,,,6.0,1.1,0.0,7.1
+1966,Glenn Hall,34,Chicago Black Hawks,G,21,7.98,21,0,,,,0,2,2,,34,22,8,2.63,.916,0.0,0.0,12.6,12.6
+1966,Norm Ullman,30,Detroit Red Wings,C,14,5.32,14,0,,,,31,41,72,2,,,,,,5.9,1.1,0.0,7.1
+1967,Stan Mikita,26,Chicago Black Hawks,C,168,52.50,84,84,,,,35,62,97,40,,,,,,8.9,1.3,0.0,10.2
+1967,Ed Giacomin,27,New York Rangers,G,57,17.81,36,21,,,,0,0,0,,30,27,11,2.61,.917,0.0,0.0,13.2,13.2
+1967,Bobby Hull,28,Chicago Black Hawks,LW,21,6.56,2,19,,,,52,28,80,28,,,,,,9.1,1.2,0.0,10.3
+1967,Henri Richard,30,Montreal Canadiens,C,16,5.00,0,16,,,,21,34,55,2,,,,,,4.0,1.0,0.0,5.1
+1967,Harry Howell,34,New York Rangers,D,14,4.38,13,1,,,,12,28,40,4,,,,,,3.4,4.8,0.0,8.2
+1967,Bobby Orr,18,Boston Bruins,D,11,3.44,,,,,,13,28,41,1,,,,,,3.8,2.2,0.0,6.0
+1967,Rod Gilbert,25,New York Rangers,RW,10,3.13,,,,,,28,18,46,-2,,,,,,4.0,1.1,0.0,5.1
+1967,Gordie Howe,38,Detroit Red Wings,RW,10,3.13,,,,,,25,40,65,-3,,,,,,5.1,0.7,0.0,5.8
+1967,Red Kelly,39,Toronto Maple Leafs,C,7,2.19,,,,,,14,24,38,0,,,,,,2.0,0.8,0.0,2.9
+1967,Phil Goyette,33,New York Rangers,C,3,0.94,,,,,,12,49,61,14,,,,,,3.6,1.2,0.0,4.8
+1967,Denis DeJordy,28,Chicago Black Hawks,G,3,0.94,,,,,,0,0,0,,22,12,7,2.46,.923,0.0,0.0,9.0,9.0
+1968,Stan Mikita,27,Chicago Black Hawks,C,52,30.23,34,18,,,,40,47,87,0,,,,,,9.0,1.0,0.0,10.0
+1968,Jean Beliveau,36,Montreal Canadiens,C,43,25.00,4,39,,,,31,37,68,25,,,,,,7.0,1.6,0.0,8.7
+1968,Bobby Hull,29,Chicago Black Hawks,LW,32,18.60,32,0,,,,44,31,75,13,,,,,,8.2,1.5,0.0,9.7
+1968,Bobby Orr,19,Boston Bruins,D,29,16.86,29,0,,,,11,20,31,28,,,,,,3.3,3.5,0.0,6.7
+1968,Gordie Howe,39,Detroit Red Wings,RW,16,9.30,4,12,,,,39,43,82,12,,,,,,8.5,1.1,0.0,9.7
+1969,Phil Esposito,26,Boston Bruins,C,133,42.63,,,,,,49,77,126,55,,,,,,12.7,2.3,0.0,15.1
+1969,Jean Beliveau,37,Montreal Canadiens,C,47,15.06,,,,,,33,49,82,15,,,,,,7.6,1.2,0.0,8.7
+1969,Bobby Orr,20,Boston Bruins,D,44,14.10,,,,,,21,43,64,55,,,,,,6.5,5.9,0.0,12.4
+1969,Red Berenson,29,St. Louis Blues,C,38,12.18,,,,,,35,47,82,26,,,,,,7.3,2.0,0.0,9.3
+1969,Gordie Howe,40,Detroit Red Wings,RW,12,3.85,,,,,,44,59,103,45,,,,,,10.1,2.4,0.0,12.5
+1969,Bobby Hull,30,Chicago Black Hawks,LW,12,3.85,,,,,,58,49,107,12,,,,,,11.6,1.1,0.0,12.7
+1969,Ed Giacomin,29,New York Rangers,G,9,2.88,,,,,,0,0,0,0,38,23,7,2.56,.911,0.0,0.0,13.9,13.9
+1969,Glenn Hall,37,St. Louis Blues,G,7,2.24,,,,,,0,2,2,0,19,12,8,2.17,.928,0.0,0.0,9.4,9.4
+1969,Norm Ullman,33,Toronto Maple Leafs,C,5,1.60,,,,,,35,42,77,20,,,,,,7.0,1.7,0.0,8.7
+1969,Yvan Cournoyer,25,Montreal Canadiens,RW,5,1.60,,,,,,43,44,87,18,,,,,,8.6,1.3,0.0,10.0
+1970,Bobby Orr,21,Boston Bruins,D,156,48.15,,,,,,33,87,120,54,,,,,,12.8,6.7,0.0,19.5
+1970,Tony Esposito,26,Chicago Black Hawks,G,110,33.95,,,,,,0,2,2,0,38,17,8,2.17,.932,0.0,0.0,14.7,14.7
+1970,Red Berenson,30,St. Louis Blues,C,12,3.70,,,,,,33,39,72,-3,,,,,,7.0,1.0,0.0,8.0
+1970,Stan Mikita,29,Chicago Black Hawks,C,11,3.40,,,,,,39,47,86,27,,,,,,8.2,2.0,0.0,10.2
+1970,Brad Park,21,New York Rangers,D,7,2.16,,,,,,11,26,37,24,,,,,,3.3,4.8,0.0,8.1
+1970,Phil Esposito,27,Boston Bruins,C,5,1.54,,,,,,43,56,99,26,,,,,,9.9,1.5,0.0,11.4
+1970,Gordie Howe,41,Detroit Red Wings,RW,5,1.54,,,,,,31,40,71,23,,,,,,6.5,1.6,0.0,8.1
+1970,Phil Goyette,36,St. Louis Blues,C,3,0.93,,,,,,29,49,78,3,,,,,,7.0,1.3,0.0,8.3
+1970,Ross Lonsberry,22,Los Angeles Kings,LW,3,0.93,,,,,,20,22,42,-19,,,,,,2.5,0.8,0.0,3.4
+1970,Pit Martin,26,Chicago Black Hawks,C,2,0.62,,,,,,30,33,63,21,,,,,,5.4,1.7,0.0,7.1
+1971,Bobby Orr,22,Boston Bruins,D,151,39.95,,,,,,37,102,139,124,,,,,,13.5,9.3,0.0,22.8
+1971,Phil Esposito,28,Boston Bruins,C,127,33.60,,,,,,76,76,152,69,,,,,,16.2,2.3,0.0,18.5
+1971,Bobby Hull,32,Chicago Black Hawks,LW,28,7.41,,,,,,44,52,96,35,,,,,,8.7,2.0,0.0,10.7
+1971,Dave Keon,30,Toronto Maple Leafs,C,20,5.29,,,,,,38,38,76,25,,,,,,7.0,1.9,0.0,8.9
+1971,Jacques Plante,42,Toronto Maple Leafs,G,16,4.23,,,,,,0,0,0,0,24,11,4,1.89,.944,0.0,0.0,10.6,10.6
+1971,Bob Baun,34,TOT,D,7,1.85,,,,,,1,20,21,14,,,,,,0.6,4.9,0.0,5.5
+1971,Orland Kurtenbach,34,Vancouver Canucks,C,5,1.32,,,,,,21,32,53,-3,,,,,,4.2,0.6,0.0,4.8
+1971,Tony Esposito,27,Chicago Black Hawks,G,4,1.06,,,,,,0,1,1,0,35,14,7,2.27,.919,0.0,0.0,13.2,13.2
+1971,Ed Giacomin,31,New York Rangers,G,4,1.06,,,,,,0,0,0,0,27,10,7,2.16,.922,0.0,0.0,11.0,11.0
+1971,Bobby Clarke,21,Philadelphia Flyers,C,3,0.79,,,,,,27,36,63,9,,,,,,4.8,1.6,0.0,6.4
+1971,Pete Mahovlich,24,Montreal Canadiens,C,3,0.79,,,,,,35,26,61,25,,,,,,5.3,1.7,0.0,7.1
+1971,Gilles Villemure,30,New York Rangers,G,3,0.79,,,,,,0,0,0,0,22,8,4,2.30,.919,0.0,0.0,8.0,8.0
+1971,Gilbert Perreault,20,Buffalo Sabres,C,2,0.53,,,,,,38,34,72,-38,,,,,,6.4,0.1,0.0,6.5
+1971,Norm Ullman,35,Toronto Maple Leafs,C,1,0.26,,,,,,34,51,85,14,,,,,,7.6,1.5,0.0,9.1
+1971,Ted Harris,34,Minnesota North Stars,D,1,0.26,,,,,,2,13,15,0,,,,,,-0.1,5.3,0.0,5.3
+1971,Bill Goldsworthy,26,Minnesota North Stars,RW,1,0.26,,,,,,34,31,65,-13,,,,,,5.4,1.0,0.0,6.4
+1971,Jean Beliveau,39,Montreal Canadiens,C,1,0.26,,,,,,25,51,76,24,,,,,,6.1,1.6,0.0,7.7
+1971,Jean Ratelle,30,New York Rangers,C,1,0.26,,,,,,26,46,72,27,,,,,,5.3,2.0,0.0,7.3
+1972,Bobby Orr,23,Boston Bruins,D,126,33.16,,,,,,37,80,117,83,,,,,,12.0,8.1,0.0,20.1
+1972,Ken Dryden,24,Montreal Canadiens,G,89,23.42,,,,,,0,3,3,0,39,8,15,2.24,.930,0.0,0.0,15.0,15.0
+1972,Phil Esposito,29,Boston Bruins,C,57,15.00,,,,,,66,67,133,54,,,,,,14.3,2.4,0.0,16.7
+1972,Jean Ratelle,31,New York Rangers,C,55,14.47,,,,,,46,63,109,61,,,,,,11.1,2.5,0.0,13.6
+1972,Vic Hadfield,31,New York Rangers,LW,18,4.74,,,,,,50,56,106,60,,,,,,10.5,2.6,0.0,13.1
+1972,Tony Esposito,28,Chicago Black Hawks,G,12,3.16,,,,,,0,1,1,0,31,10,6,1.77,.934,0.0,0.0,13.0,13.0
+1972,Bobby Hull,33,Chicago Black Hawks,LW,10,2.63,,,,,,50,43,93,53,,,,,,9.5,2.7,0.0,12.2
+1972,Bobby Clarke,22,Philadelphia Flyers,C,5,1.32,,,,,,35,46,81,24,,,,,,7.3,2.2,0.0,9.4
+1972,Brad Park,23,New York Rangers,D,4,1.05,,,,,,24,49,73,63,,,,,,7.0,6.8,0.0,13.8
+1972,Rod Gilbert,30,New York Rangers,RW,2,0.53,,,,,,43,54,97,50,,,,,,9.3,2.2,0.0,11.5
+1972,Gilbert Perreault,21,Buffalo Sabres,C,2,0.53,,,,,,26,48,74,-41,,,,,,6.0,0.1,0.0,6.1
+1973,Bobby Clarke,23,Philadelphia Flyers,C,158,37.71,,,,,,37,67,104,32,,,,,,8.5,1.8,0.0,10.3
+1973,Phil Esposito,30,Boston Bruins,C,96,22.91,,,,,,55,75,130,17,,,,,,11.8,1.2,0.0,13.1
+1973,Bobby Orr,24,Boston Bruins,D,63,15.04,,,,,,29,72,101,55,,,,,,9.5,6.0,0.0,15.6
+1973,Ken Dryden,25,Montreal Canadiens,G,53,12.65,,,,,,0,4,4,0,33,7,13,2.26,.926,0.0,0.0,13.2,13.2
+1973,Gilbert Perreault,22,Buffalo Sabres,C,25,5.97,,,,,,28,60,88,11,,,,,,6.5,1.5,0.0,8.0
+1973,Mickey Redmond,25,Detroit Red Wings,RW,8,1.91,,,,,,52,41,93,6,,,,,,8.9,1.3,0.0,10.2
+1973,Stan Mikita,32,Chicago Black Hawks,C,5,1.19,,,,,,27,56,83,31,,,,,,6.6,1.5,0.0,8.1
+1973,Dennis Hextall,29,Minnesota North Stars,C,5,1.19,,,,,,30,52,82,29,,,,,,5.8,1.8,0.0,7.6
+1973,Tony Esposito,29,Chicago Black Hawks,G,3,0.72,,,,,,0,2,2,0,32,17,7,2.52,.917,0.0,0.0,12.6,12.6
+1973,Yvan Cournoyer,29,Montreal Canadiens,RW,3,0.72,,,,,,40,39,79,50,,,,,,7.2,2.1,0.0,9.3
+1974,Phil Esposito,31,Boston Bruins,C,149,34.49,,,,,,68,77,145,51,,,,,,15.0,2.0,0.0,17.0
+1974,Bernie Parent,28,Philadelphia Flyers,G,114,26.39,,,,,,0,3,3,0,47,13,12,1.89,.932,0.0,0.0,19.9,19.9
+1974,Bobby Orr,25,Boston Bruins,D,73,16.90,,,,,,32,90,122,84,,,,,,11.7,7.7,0.0,19.4
+1974,Bobby Clarke,24,Philadelphia Flyers,C,54,12.50,,,,,,35,52,87,35,,,,,,7.1,2.0,0.0,9.1
+1974,Tony Esposito,30,Chicago Black Hawks,G,16,3.70,,,,,,0,1,1,0,34,14,21,2.05,.929,0.0,0.0,18.2,18.2
+1974,Stan Mikita,33,Chicago Black Hawks,C,9,2.08,,,,,,30,50,80,24,,,,,,6.1,1.8,0.0,7.9
+1974,Syl Apps,26,Pittsburgh Penguins,C,4,0.93,,,,,,24,61,85,21,,,,,,6.2,1.8,0.0,8.0
+1974,Brad Park,25,New York Rangers,D,3,0.69,,,,,,25,57,82,23,,,,,,7.5,5.0,0.0,12.4
+1974,Yvan Cournoyer,30,Montreal Canadiens,RW,2,0.46,,,,,,40,33,73,16,,,,,,7.1,1.1,0.0,8.3
+1974,Darryl Sittler,23,Toronto Maple Leafs,C,2,0.46,,,,,,38,46,84,12,,,,,,7.3,1.2,0.0,8.5
+1975,Bobby Clarke,25,Philadelphia Flyers,C,127,27.14,,,,,,27,89,116,79,,,,,,8.2,3.1,0.0,11.2
+1975,Rogie Vachon,29,Los Angeles Kings,G,113,24.15,,,,,,0,1,1,0,27,14,13,2.24,.927,0.0,0.0,14.0,14.0
+1975,Bobby Orr,26,Boston Bruins,D,73,15.60,,,,,,46,89,135,80,,,,,,13.1,8.4,0.0,21.5
+1975,Bernie Parent,29,Philadelphia Flyers,G,54,11.54,,,,,,0,0,0,0,44,14,9,2.04,.918,0.0,0.0,18.6,18.6
+1975,Guy Lafleur,23,Montreal Canadiens,RW,43,9.19,,,,,,53,66,119,53,,,,,,10.9,2.0,0.0,12.9
+1975,Gary Smith,30,Vancouver Canucks,G,20,4.27,,,,,,0,1,1,0,32,24,9,3.09,.895,0.0,0.0,12.0,12.0
+1975,Denis Potvin,21,New York Islanders,D,16,3.42,,,,,,21,55,76,27,,,,,,6.1,6.2,0.0,12.3
+1975,Marcel Dionne,23,Detroit Red Wings,C,12,2.56,,,,,,47,74,121,-15,,,,,,10.0,1.0,0.0,11.0
+1975,Rick Dudley,26,Buffalo Sabres,LW,5,1.07,,,,,,31,39,70,29,,,,,,4.8,1.5,0.0,6.3
+1975,Bob Nevin,36,Los Angeles Kings,RW,5,1.07,,,,,,31,41,72,36,,,,,,4.8,2.1,0.0,6.9
+1976,Bobby Clarke,26,Philadelphia Flyers,C,246,52.23,,,,,,30,89,119,83,,,,,,8.9,2.8,0.0,11.7
+1976,Denis Potvin,22,New York Islanders,D,75,15.92,,,,,,31,67,98,12,,,,,,8.7,5.6,0.0,14.3
+1976,Guy Lafleur,24,Montreal Canadiens,RW,62,13.16,,,,,,56,69,125,67,,,,,,11.1,2.7,0.0,13.8
+1976,Ken Dryden,28,Montreal Canadiens,G,29,6.16,,,,,,0,2,2,0,42,10,8,2.03,.927,0.0,0.0,16.5,16.5
+1976,Brad Park,27,TOT,D,15,3.18,,,,,,18,41,59,19,,,,,,5.2,4.0,0.0,9.2
+1976,Jean Ratelle,35,TOT,C,11,2.34,,,,,,36,69,105,20,,,,,,8.0,1.6,0.0,9.6
+1976,Gilbert Perreault,25,Buffalo Sabres,C,10,2.12,,,,,,44,69,113,17,,,,,,9.4,1.3,0.0,10.7
+1976,Pete Mahovlich,29,Montreal Canadiens,C,10,2.12,,,,,,34,71,105,72,,,,,,7.7,2.9,0.0,10.6
+1976,Darryl Sittler,25,Toronto Maple Leafs,C,8,1.70,,,,,,41,59,100,12,,,,,,7.9,1.1,0.0,9.0
+1976,Dave Burrows,27,Pittsburgh Penguins,D,5,1.06,,,,,,7,22,29,26,,,,,,1.3,4.3,0.0,5.6
+1977,Guy Lafleur,25,Montreal Canadiens,RW,177,38.56,,,,,,56,80,136,89,,,,,,12.7,3.0,0.0,15.7
+1977,Bobby Clarke,27,Philadelphia Flyers,C,83,18.08,,,,,,27,63,90,40,,,,,,6.4,1.7,0.0,8.1
+1977,Rogie Vachon,31,Los Angeles Kings,G,45,9.80,,,,,,0,1,1,0,33,23,12,2.73,.903,0.0,0.0,14.3,14.3
+1977,Borje Salming,25,Toronto Maple Leafs,D,40,8.71,,,,,,12,66,78,45,,,,,,5.9,6.0,0.0,11.8
+1977,Marcel Dionne,25,Los Angeles Kings,C,28,6.10,,,,,,53,69,122,11,,,,,,11.3,1.5,0.0,12.8
+1977,Larry Robinson,25,Montreal Canadiens,D,28,6.10,,,,,,19,66,85,120,,,,,,7.1,9.9,0.0,16.9
+1977,Gilbert Perreault,26,Buffalo Sabres,C,26,5.66,,,,,,39,56,95,9,,,,,,7.9,1.3,0.0,9.2
+1977,Jean Ratelle,36,Boston Bruins,C,16,3.49,,,,,,33,61,94,18,,,,,,7.2,1.3,0.0,8.6
+1977,Darryl Sittler,26,Toronto Maple Leafs,C,8,1.74,,,,,,38,52,90,7,,,,,,7.6,1.1,0.0,8.6
+1977,Denis Potvin,23,New York Islanders,D,8,1.74,,,,,,25,55,80,42,,,,,,7.0,6.7,0.0,13.7
+1978,Guy Lafleur,26,Montreal Canadiens,RW,145,30.66,,,,,,60,72,132,73,,,,,,13.1,2.7,0.0,15.8
+1978,Bryan Trottier,21,New York Islanders,C,99,20.93,,,,,,46,77,123,52,,,,,,10.7,2.2,0.0,12.9
+1978,Darryl Sittler,27,Toronto Maple Leafs,C,67,14.16,,,,,,45,72,117,34,,,,,,10.1,2.1,0.0,12.2
+1978,Don Edwards,22,Buffalo Sabres,G,34,7.19,,,,,,0,3,3,0,38,16,17,2.64,.906,0.0,0.0,15.3,15.3
+1978,Brad Park,29,Boston Bruins,D,31,6.55,,,,,,22,57,79,69,,,,,,6.6,7.1,0.0,13.7
+1978,Bobby Clarke,28,Philadelphia Flyers,C,27,5.71,,,,,,21,68,89,47,,,,,,6.3,2.0,0.0,8.3
+1978,Denis Potvin,24,New York Islanders,D,24,5.07,,,,,,30,64,94,57,,,,,,8.4,7.0,0.0,15.4
+1978,Terry O'Reilly,26,Boston Bruins,RW,19,4.02,,,,,,29,61,90,42,,,,,,6.6,1.8,0.0,8.4
+1978,Tony Esposito,34,Chicago Black Hawks,G,12,2.54,,,,,,0,4,4,0,28,22,14,2.63,.914,0.0,0.0,14.0,14.0
+1978,Clark Gillies,23,New York Islanders,LW,5,1.06,,,,,,35,50,85,49,,,,,,6.5,2.2,0.0,8.7
+1978,Ken Dryden,30,Montreal Canadiens,G,5,1.06,,,,,,0,2,2,0,37,7,7,2.05,.922,0.0,0.0,13.7,13.7
+1978,Larry Robinson,26,Montreal Canadiens,D,5,1.06,,,,,,13,52,65,71,,,,,,4.9,7.6,0.0,12.5
+1979,Bryan Trottier,22,New York Islanders,C,201,43.79,,,,,,47,87,134,76,,,,,,10.8,2.8,0.0,13.6
+1979,Guy Lafleur,27,Montreal Canadiens,RW,84,18.30,,,,,,52,77,129,55,,,,,,11.0,2.4,0.0,13.4
+1979,Marcel Dionne,27,Los Angeles Kings,C,47,10.24,,,,,,59,71,130,22,,,,,,11.4,1.8,0.0,13.3
+1979,Denis Potvin,25,New York Islanders,D,46,10.02,,,,,,31,70,101,71,,,,,,8.6,7.3,0.0,15.9
+1979,Mike Palmateer,25,Toronto Maple Leafs,G,18,3.92,,,,,,0,5,5,0,26,21,10,2.96,.909,0.0,0.0,11.6,11.6
+1979,Serge Savard,33,Montreal Canadiens,D,13,2.83,,,,,,7,26,33,47,,,,,,1.4,6.9,0.0,8.3
+1979,Denis Herron,26,Pittsburgh Penguins,G,7,1.53,,,,,,0,2,2,0,22,19,12,3.37,.892,0.0,0.0,9.1,9.1
+1979,Borje Salming,27,Toronto Maple Leafs,D,7,1.53,,,,,,17,56,73,31,,,,,,5.5,6.2,0.0,11.6
+1979,Mike Bossy,22,New York Islanders,RW,7,1.53,,,,,,69,57,126,63,,,,,,11.7,2.4,0.0,14.1
+1979,Don Edwards,23,Buffalo Sabres,G,6,1.31,,,,,,0,2,2,0,26,18,9,3.02,.899,0.0,0.0,10.5,10.5
+1979,Tony Esposito,35,Chicago Black Hawks,G,5,1.09,,,,,,0,1,1,0,24,28,11,3.28,.902,0.0,0.0,11.2,11.2
+1979,Larry Robinson,27,Montreal Canadiens,D,4,0.87,,,,,,16,45,61,49,,,,,,4.6,6.4,0.0,11.0
+1979,Darryl Sittler,28,Toronto Maple Leafs,C,3,0.65,,,,,,36,51,87,9,,,,,,6.9,1.2,0.0,8.1
+1979,Bob Gainey,25,Montreal Canadiens,LW,3,0.65,,,,,,20,18,38,12,,,,,,1.3,1.1,0.0,2.4
+1979,Phil Esposito,36,New York Rangers,C,2,0.44,,,,,,42,36,78,-1,,,,,,6.0,0.8,0.0,6.7
+1979,Ron Stackhouse,29,Pittsburgh Penguins,D,1,0.22,,,,,,10,33,43,21,,,,,,2.7,5.3,0.0,7.9
+1979,Ken Dryden,31,Montreal Canadiens,G,1,0.22,,,,,,0,3,3,0,30,10,7,2.30,.909,0.0,0.0,12.1,12.1
+1979,Bobby Clarke,29,Philadelphia Flyers,C,1,0.22,,,,,,16,57,73,12,,,,,,3.7,1.3,0.0,5.1
+1979,Dan Bouchard,28,Atlanta Flames,G,1,0.22,,,,,,0,3,3,0,32,21,7,3.33,.889,0.0,0.0,10.5,10.5
+1979,Wilf Paiement,23,Colorado Rockies,RW,1,0.22,,,,,,24,36,60,-30,,,,,,4.0,0.5,0.0,4.5
+1979,Brad Park,30,Boston Bruins,D,1,0.22,,,,,,7,32,39,28,,,,,,2.7,3.3,0.0,6.1
+1980,Wayne Gretzky,19,Edmonton Oilers,C,211,38.43,,,,,,51,86,137,14,,,,,,11.3,1.3,0.0,12.6
+1980,Marcel Dionne,28,Los Angeles Kings,C,166,30.24,,,,,,53,84,137,34,,,,,,11.6,2.0,0.0,13.5
+1980,Tony Esposito,36,Chicago Black Hawks,G,64,11.66,,,,,,0,1,1,0,31,22,16,2.98,.903,0.0,0.0,14.0,14.0
+1980,Guy Lafleur,28,Montreal Canadiens,RW,44,8.01,,,,,,50,75,125,40,,,,,,10.8,2.0,0.0,12.8
+1980,Danny Gare,25,Buffalo Sabres,RW,20,3.64,,,,,,56,33,89,48,,,,,,8.3,2.1,0.0,10.4
+1980,Mike Liut,24,St. Louis Blues,G,14,2.55,,,,,,0,0,0,0,32,23,9,3.18,.895,0.0,0.0,11.4,11.4
+1980,Larry Robinson,28,Montreal Canadiens,D,9,1.64,,,,,,14,61,75,38,,,,,,5.5,5.9,0.0,11.4
+1980,Darryl Sittler,29,Toronto Maple Leafs,C,8,1.46,,,,,,40,57,97,3,,,,,,7.7,1.0,0.0,8.7
+1980,Denis Potvin,26,New York Islanders,D,7,1.28,,,,,,8,33,41,13,,,,,,3.2,2.4,0.0,5.6
+1980,Bobby Clarke,30,Philadelphia Flyers,C,6,1.09,,,,,,12,57,69,42,,,,,,3.3,1.6,0.0,4.9
+1981,Wayne Gretzky,20,Edmonton Oilers,C,242,42.68,,,,,,55,109,164,41,,,,,,12.3,2.0,0.0,14.3
+1981,Mike Liut,25,St. Louis Blues,G,237,41.80,,,,,,0,0,0,0,33,14,13,3.35,.894,0.0,0.0,11.6,11.6
+1981,Marcel Dionne,29,Los Angeles Kings,C,24,4.23,,,,,,58,77,135,54,,,,,,10.5,2.3,0.0,12.8
+1981,Mike Bossy,24,New York Islanders,RW,20,3.53,,,,,,68,51,119,38,,,,,,10.2,1.8,0.0,12.0
+1981,Bryan Trottier,24,New York Islanders,C,9,1.59,,,,,,31,72,103,50,,,,,,6.6,2.1,0.0,8.7
+1981,Larry Robinson,29,Montreal Canadiens,D,7,1.23,,,,,,12,38,50,47,,,,,,3.2,6.1,0.0,9.3
+1981,Dan Bouchard,30,TOT,G,6,1.06,,,,,,0,4,4,0,23,10,8,3.44,.892,0.0,0.0,7.9,7.9
+1981,Kent Nilsson,24,Calgary Flames,C,5,0.88,,,,,,49,82,131,14,,,,,,9.5,1.4,0.0,10.9
+1981,Denis Potvin,27,New York Islanders,D,4,0.71,,,,,,20,56,76,39,,,,,,5.4,5.6,0.0,11.0
+1981,Danny Gare,26,Buffalo Sabres,RW,3,0.53,,,,,,46,39,85,12,,,,,,6.3,1.3,0.0,7.7
+1981,Randy Carlyle,24,Pittsburgh Penguins,D,2,0.35,,,,,,16,67,83,-16,,,,,,5.4,3.0,0.0,8.5
+1981,Peter Stastny,24,Quebec Nordiques,C,2,0.35,,,,,,39,70,109,10,,,,,,7.3,1.3,0.0,8.6
+1981,Mario Lessard,26,Los Angeles Kings,G,2,0.35,,,,,,0,1,1,0,35,18,11,3.26,.893,0.0,0.0,12.6,12.6
+1981,Don Edwards,25,Buffalo Sabres,G,1,0.18,,,,,,0,2,2,0,23,10,12,2.96,.898,0.0,0.0,10.1,10.1
+1981,Tiger Williams,26,Vancouver Canucks,LW,1,0.18,,,,,,35,27,62,4,,,,,,3.8,1.2,0.0,5.0
+1981,Guy Lafleur,29,Montreal Canadiens,RW,1,0.18,,,,,,27,43,70,24,,,,,,5.0,1.3,0.0,6.3
+1981,Ray Bourque,20,Boston Bruins,D,1,0.18,,,,,,27,29,56,29,,,,,,4.5,5.1,0.0,9.6
+1982,Wayne Gretzky,21,Edmonton Oilers,C,315,100.00,63,0,0,,,92,120,212,80,,,,,,17.2,2.5,0.0,19.7
+1982,Bryan Trottier,25,New York Islanders,C,130,41.27,0,41,7,,,50,79,129,70,,,,,,8.7,2.4,0.0,11.2
+1982,Mike Bossy,25,New York Islanders,RW,34,10.79,0,10,4,,,64,83,147,69,,,,,,10.9,2.4,0.0,13.3
+1982,Peter Stastny,25,Quebec Nordiques,C,15,4.76,0,2,9,,,46,93,139,-10,,,,,,9.1,0.7,0.0,9.8
+1982,Dale Hawerchuk,18,Winnipeg Jets,C,13,4.13,0,2,7,,,45,58,103,-7,,,,,,6.8,1.0,0.0,7.9
+1982,Dennis Maruk,26,Washington Capitals,C,10,3.17,0,0,10,,,60,76,136,-7,,,,,,9.9,1.1,0.0,11.0
+1982,Barry Beck,24,New York Rangers,D,10,3.17,0,3,1,,,9,29,38,20,,,,,,2.0,4.2,0.0,6.2
+1982,Rick Middleton,28,Boston Bruins,RW,7,2.22,0,1,4,,,51,43,94,15,,,,,,7.0,1.4,0.0,8.4
+1982,Doug Wilson,24,Chicago Black Hawks,D,6,1.90,0,0,6,,,39,46,85,1,,,,,,6.9,3.4,0.0,10.3
+1982,Bobby Smith,23,Minnesota North Stars,C,5,1.59,0,1,2,,,43,71,114,10,,,,,,7.3,1.4,0.0,8.7
+1982,Denis Savard,20,Chicago Black Hawks,C,5,1.59,0,1,2,,,32,87,119,0,,,,,,7.0,1.0,0.0,7.9
+1982,Gilles Meloche,31,Minnesota North Stars,G,3,0.95,0,1,0,,,0,1,1,0,26,15,9,3.48,.894,0.0,0.0,10.0,10.0
+1982,Richard Brodeur,29,Vancouver Canucks,G,2,0.63,0,0,2,,,0,2,2,0,20,18,12,3.36,.893,0.0,0.0,10.3,10.3
+1982,Bill Barber,29,Philadelphia Flyers,LW,1,0.32,0,0,1,,,45,44,89,2,,,,,,5.7,0.9,0.0,6.6
+1982,Al Secord,23,Chicago Black Hawks,LW,1,0.32,0,0,1,,,44,31,75,-17,,,,,,4.8,0.5,0.0,5.3
+1982,Ray Bourque,21,Boston Bruins,D,1,0.32,0,0,1,,,17,49,66,21,,,,,,4.5,4.8,0.0,9.2
+1982,Paul Gardner,25,Pittsburgh Penguins,C,1,0.32,0,0,1,,,36,33,69,-5,,,,,,4.7,0.8,0.0,5.5
+1982,Bob Gainey,28,Montreal Canadiens,LW,1,0.32,0,0,1,,,21,24,45,36,,,,,,1.2,1.8,0.0,3.0
+1982,Dino Ciccarelli,21,Minnesota North Stars,RW,1,0.32,0,0,1,,,55,51,106,14,,,,,,7.7,1.5,0.0,9.2
+1982,Brad Park,33,Boston Bruins,D,1,0.32,0,0,1,,,14,42,56,12,,,,,,3.4,4.9,0.0,8.2
+1982,Terry O'Reilly,30,Boston Bruins,RW,1,0.32,0,0,1,,,22,30,52,24,,,,,,2.2,1.6,0.0,3.8
+1982,Brian Sutter,25,St. Louis Blues,LW,1,0.32,0,0,1,,,39,36,75,-3,,,,,,4.7,0.9,0.0,5.6
+1983,Wayne Gretzky,22,Edmonton Oilers,C,266,84.44,43,16,3,,,71,125,196,61,,,,,,16.1,1.9,0.0,18.0
+1983,Pete Peeters,25,Boston Bruins,G,159,50.48,14,27,8,,,0,2,2,0,40,12,9,2.37,.903,0.0,0.0,16.5,16.5
+1983,Denis Savard,21,Chicago Black Hawks,C,67,21.27,3,10,22,,,35,86,121,26,,,,,,8.0,1.6,0.0,9.6
+1983,Rod Langway,25,Washington Capitals,D,30,9.52,1,6,7,,,3,29,32,-2,,,,,,0.9,4.3,0.0,5.2
+1983,Mark Howe,27,Philadelphia Flyers,D,20,6.35,2,0,10,,,20,47,67,47,,,,,,4.5,6.3,0.0,10.8
+1983,Bobby Clarke,33,Philadelphia Flyers,C,9,2.86,,,,,,23,62,85,37,,,,,,4.4,1.8,0.0,6.1
+1983,Peter Stastny,26,Quebec Nordiques,C,5,1.59,,,,,,47,77,124,29,,,,,,9.1,1.3,0.0,10.4
+1983,Lanny McDonald,29,Calgary Flames,RW,4,1.27,,,,,,66,32,98,-1,,,,,,8.8,1.0,0.0,9.8
+1983,Glenn Resch,34,New Jersey Devils,G,2,0.63,0,0,2,,,0,3,3,0,15,35,12,3.98,.875,0.0,0.0,9.2,9.2
+1983,Mike Bossy,26,New York Islanders,RW,1,0.32,0,0,1,,,60,58,118,27,,,,,,9.4,1.8,0.0,11.2
+1983,John Tonelli,25,New York Islanders,LW,1,0.32,0,0,1,,,31,40,71,30,,,,,,4.2,1.8,0.0,6.0
+1983,Mark Pavelich,24,New York Rangers,C,1,0.32,0,0,1,,,37,38,75,19,,,,,,4.8,1.5,0.0,6.2
+1983,Brad Park,34,Boston Bruins,D,1,0.32,0,0,1,,,10,26,36,20,,,,,,1.8,5.2,0.0,6.9
+1983,Brian Sutter,26,St. Louis Blues,LW,1,0.32,0,0,1,,,46,30,76,-3,,,,,,5.5,1.2,0.0,6.7
+1984,Wayne Gretzky,23,Edmonton Oilers,C,306,98.71,60,2,0,,,87,118,205,78,,,,,,17.4,2.2,0.0,19.6
+1984,Rod Langway,26,Washington Capitals,D,102,32.90,1,26,19,,,9,24,33,14,,,,,,1.2,6.3,0.0,7.6
+1984,Bryan Trottier,27,New York Islanders,C,54,17.42,1,14,7,,,40,71,111,68,,,,,,8.0,2.3,0.0,10.3
+1984,Rick Middleton,30,Boston Bruins,RW,31,10.00,0,8,7,,,47,58,105,26,,,,,,7.5,1.8,0.0,9.3
+1984,Ray Bourque,23,Boston Bruins,D,17,5.48,0,4,5,,,31,65,96,51,,,,,,7.3,7.2,0.0,14.5
+1984,Mike Bossy,27,New York Islanders,RW,13,4.19,0,3,4,,,51,67,118,65,,,,,,9.3,2.2,0.0,11.5
+1984,Michel Goulet,23,Quebec Nordiques,LW,12,3.87,0,2,6,,,56,66,122,62,,,,,,9.3,2.3,0.0,11.6
+1984,Reggie Lemelin,29,Calgary Flames,G,6,1.94,0,1,3,,,0,3,3,0,21,12,9,3.52,.893,0.0,0.0,9.6,9.6
+1984,Tom Barrasso,18,Buffalo Sabres,G,4,1.29,0,1,1,,,0,2,2,0,26,12,3,2.85,.893,0.0,0.0,7.5,7.5
+1984,Paul Coffey,22,Edmonton Oilers,D,3,0.97,0,1,0,,,40,86,126,52,,,,,,9.9,4.4,0.0,14.3
+1984,Tim Kerr,24,Philadelphia Flyers,RW,2,0.65,0,0,2,,,54,39,93,29,,,,,,7.2,1.4,0.0,8.6
+1984,Peter Stastny,27,Quebec Nordiques,C,2,0.65,0,0,2,,,46,73,119,22,,,,,,8.3,1.3,0.0,9.6
+1984,Brad Park,35,Detroit Red Wings,D,1,0.32,0,0,1,,,5,53,58,-31,,,,,,2.8,2.6,0.0,5.4
+1984,Denis Savard,22,Chicago Black Hawks,C,1,0.32,0,0,1,,,37,57,94,-12,,,,,,6.2,0.8,0.0,7.0
+1984,Al Jensen,25,Washington Capitals,G,1,0.32,0,0,1,,,0,0,0,0,25,13,3,2.92,.881,0.0,0.0,5.8,5.8
+1984,Dan Bouchard,33,Quebec Nordiques,G,1,0.32,0,0,1,,,0,3,3,0,29,18,8,3.21,.882,0.0,0.0,9.1,9.1
+1984,Barry Pederson,22,Boston Bruins,C,1,0.32,0,0,1,,,39,77,116,27,,,,,,7.7,1.8,0.0,9.5
+1984,Kent Nilsson,27,Calgary Flames,C,1,0.32,0,0,1,,,31,49,80,-24,,,,,,5.1,0.2,0.0,5.3
+1985,Wayne Gretzky,24,Edmonton Oilers,C,303,96.19,60,1,0,,,73,135,208,100,,,,,,16.6,3.0,0.0,19.6
+1985,Dale Hawerchuk,21,Winnipeg Jets,C,91,28.89,1,23,17,,,53,77,130,20,,,,,,9.8,1.3,0.0,11.1
+1985,Pelle Lindbergh,25,Philadelphia Flyers,G,56,17.78,0,15,11,,,0,0,0,0,40,17,7,3.02,.899,0.0,0.0,13.8,13.8
+1985,Rod Langway,27,Washington Capitals,D,28,8.89,1,6,5,,,4,22,26,36,,,,,,0.5,6.4,0.0,6.9
+1985,Ray Bourque,24,Boston Bruins,D,21,6.67,0,5,6,,,20,66,86,30,,,,,,5.9,5.7,0.0,11.6
+1985,Brian Sutter,28,St. Louis Blues,LW,13,4.13,1,2,2,,,37,37,74,10,,,,,,4.8,1.2,0.0,6.0
+1985,Doug Wilson,27,Chicago Black Hawks,D,10,3.17,0,3,1,,,22,54,76,24,,,,,,5.3,4.8,0.0,10.1
+1985,Tom Barrasso,19,Buffalo Sabres,G,9,2.86,0,2,3,,,0,6,6,0,25,18,10,2.67,.887,0.0,0.0,8.1,8.1
+1985,Tim Kerr,25,Philadelphia Flyers,RW,7,2.22,0,1,4,,,54,44,98,31,,,,,,7.8,1.5,0.0,9.3
+1985,Marcel Dionne,33,Los Angeles Kings,C,7,2.22,0,1,4,,,46,80,126,11,,,,,,8.8,1.4,0.0,10.2
+1985,Mike Bossy,28,New York Islanders,RW,6,1.90,0,1,3,,,58,59,117,37,,,,,,9.5,1.7,0.0,11.2
+1985,Michel Goulet,24,Quebec Nordiques,LW,4,1.27,0,1,1,,,55,40,95,10,,,,,,7.6,1.1,0.0,8.7
+1985,Bob Carpenter,21,Washington Capitals,C,4,1.27,0,1,1,,,53,42,95,20,,,,,,7.3,1.6,0.0,8.9
+1985,Jari Kurri,24,Edmonton Oilers,RW,3,0.95,0,1,0,,,71,64,135,78,,,,,,11.6,2.4,0.0,14.0
+1985,John Tonelli,27,New York Islanders,LW,1,0.32,0,0,1,,,42,58,100,49,,,,,,7.0,2.1,0.0,9.0
+1985,Brent Sutter,22,New York Islanders,C,1,0.32,0,0,1,,,42,60,102,42,,,,,,7.4,1.8,0.0,9.2
+1985,Bernie Federko,28,St. Louis Blues,C,1,0.32,0,0,1,,,30,73,103,-10,,,,,,6.4,0.7,0.0,7.1
+1985,Paul Coffey,23,Edmonton Oilers,D,1,0.32,0,0,1,,,37,84,121,57,,,,,,9.5,5.3,0.0,14.8
+1985,Dave Poulin,26,Philadelphia Flyers,C,1,0.32,0,0,1,,,30,44,74,45,,,,,,4.5,1.9,0.0,6.4
+1986,Wayne Gretzky,25,Edmonton Oilers,C,281,93.67,54,3,2,,,52,163,215,71,,,,,,14.9,2.1,0.0,17.0
+1986,Mario Lemieux,20,Pittsburgh Penguins,C,163,54.33,4,46,5,,,48,93,141,-8,,,,,,9.9,0.9,0.0,10.9
+1986,Mark Howe,30,Philadelphia Flyers,D,32,10.67,0,5,17,,,24,58,82,87,,,,,,5.7,8.8,0.0,14.5
+1986,Paul Coffey,24,Edmonton Oilers,D,29,9.67,1,4,12,,,48,90,138,61,,,,,,11.0,5.1,0.0,16.1
+1986,John Vanbiesbrouck,22,New York Rangers,G,16,5.33,1,1,8,,,0,3,3,0,31,21,5,3.33,.887,0.0,0.0,10.0,10.0
+1986,Mike Bossy,29,New York Islanders,RW,5,1.67,0,1,2,,,61,62,123,30,,,,,,9.4,1.6,0.0,11.0
+1986,Peter Stastny,29,Quebec Nordiques,C,3,1.00,0,0,3,,,41,81,122,2,,,,,,8.1,1.1,0.0,9.2
+1986,Tim Kerr,26,Philadelphia Flyers,RW,2,0.67,0,0,2,,,58,26,84,-2,,,,,,6.8,0.9,0.0,7.7
+1986,Neal Broten,26,Minnesota North Stars,C,2,0.67,0,0,2,,,29,76,105,14,,,,,,6.1,1.4,0.0,7.4
+1986,Ray Bourque,25,Boston Bruins,D,1,0.33,0,0,1,,,19,58,77,17,,,,,,5.1,5.0,0.0,10.1
+1986,Kevin Dineen,22,Hartford Whalers,RW,1,0.33,0,0,1,,,33,35,68,15,,,,,,4.7,1.1,0.0,5.8
+1986,Bernie Federko,29,St. Louis Blues,C,1,0.33,0,0,1,,,34,68,102,11,,,,,,6.2,1.3,0.0,7.5
+1986,Ron Francis,22,Hartford Whalers,C,1,0.33,0,0,1,,,24,53,77,5,,,,,,4.9,0.8,0.0,5.7
+1986,Troy Murray,23,Chicago Black Hawks,C,1,0.33,0,0,1,,,45,54,99,32,,,,,,6.9,1.6,0.0,8.5
+1986,Brian Propp,26,Philadelphia Flyers,LW,1,0.33,0,0,1,,,40,57,97,22,,,,,,6.6,1.5,0.0,8.0
+1986,Larry Robinson,34,Montreal Canadiens,D,1,0.33,0,0,1,,,19,63,82,25,,,,,,5.5,5.8,0.0,11.3
+1987,Wayne Gretzky,26,Edmonton Oilers,C,255,94.44,49,3,1,,,62,121,183,69,,,,,,15.2,2.4,0.0,17.6
+1987,Ray Bourque,26,Boston Bruins,D,95,35.19,2,24,13,,,23,72,95,44,,,,,,7.2,6.4,0.0,13.6
+1987,Mike Liut,31,Hartford Whalers,G,39,14.44,1,7,13,,,0,2,2,0,31,22,5,3.23,.885,0.0,0.0,9.5,9.5
+1987,Mario Lemieux,21,Pittsburgh Penguins,C,34,12.59,2,6,6,,,54,53,107,12,,,,,,9.5,1.1,0.0,10.6
+1987,Doug Gilmour,23,St. Louis Blues,C,30,11.11,0,9,3,,,42,63,105,-4,,,,,,7.8,1.1,0.0,8.9
+1987,Dale Hawerchuk,23,Winnipeg Jets,C,11,4.07,0,2,5,,,47,53,100,2,,,,,,7.9,1.2,0.0,9.1
+1987,Mark Howe,31,Philadelphia Flyers,D,5,1.85,0,1,2,,,15,43,58,57,,,,,,4.1,6.5,0.0,10.5
+1987,Steve Yzerman,21,Detroit Red Wings,C,5,1.85,0,1,2,,,31,59,90,-2,,,,,,5.9,1.2,0.0,7.1
+1987,Ron Francis,23,Hartford Whalers,C,3,1.11,0,1,0,,,30,63,93,11,,,,,,6.4,1.3,0.0,7.7
+1987,Ron Hextall,22,Philadelphia Flyers,G,3,1.11,0,0,3,,,0,6,6,0,37,21,6,3.01,.902,0.0,0.0,13.8,13.8
+1987,Mark Messier,26,Edmonton Oilers,C,3,1.11,0,0,3,,,37,70,107,22,,,,,,7.7,1.1,0.0,8.8
+1987,Dino Ciccarelli,26,Minnesota North Stars,RW,2,0.74,0,0,2,,,52,51,103,11,,,,,,8.6,1.2,0.0,9.9
+1987,Kevin Dineen,23,Hartford Whalers,RW,1,0.37,0,0,1,,,40,39,79,8,,,,,,6.0,1.3,0.0,7.3
+1988,Mario Lemieux,22,Pittsburgh Penguins,C,292,92.70,54,7,1,,,70,98,168,23,,,,,,14.7,1.5,0.0,16.2
+1988,Grant Fuhr,25,Edmonton Oilers,G,106,33.65,4,25,11,,,0,8,8,0,40,24,9,3.43,.881,0.0,0.0,11.3,11.3
+1988,Wayne Gretzky,27,Edmonton Oilers,C,73,23.17,2,15,18,,,40,109,149,39,,,,,,11.3,1.6,0.0,12.8
+1988,Steve Yzerman,22,Detroit Red Wings,C,64,20.32,3,11,16,,,50,52,102,30,,,,,,8.9,1.5,0.0,10.4
+1988,Denis Savard,26,Chicago Blackhawks,C,21,6.67,0,5,6,,,44,87,131,4,,,,,,9.8,1.2,0.0,11.0
+1988,Tom Barrasso,22,Buffalo Sabres,G,5,1.59,0,0,5,,,0,1,1,0,25,18,8,3.32,.896,0.0,0.0,11.0,11.0
+1988,Dale Hawerchuk,24,Winnipeg Jets,C,2,0.63,0,0,2,,,44,77,121,-9,,,,,,9.0,0.9,0.0,10.0
+1988,Ray Bourque,27,Boston Bruins,D,1,0.32,0,0,1,,,17,64,81,34,,,,,,5.5,6.2,0.0,11.7
+1988,Sean Burke,21,New Jersey Devils,G,1,0.32,0,0,1,,,0,1,1,0,10,1,0,3.05,.883,0.0,0.0,1.7,1.7
+1988,Kirk Muller,21,New Jersey Devils,C,1,0.32,0,0,1,,,37,57,94,19,,,,,,6.6,1.6,0.0,8.2
+1988,Gary Suter,23,Calgary Flames,D,1,0.32,0,0,1,,,21,70,91,39,,,,,,6.7,4.4,0.0,11.1
+1989,Wayne Gretzky,28,Los Angeles Kings,C,267,84.76,40,22,1,,,54,114,168,15,,,,,,13.2,0.9,0.0,14.1
+1989,Mario Lemieux,23,Pittsburgh Penguins,C,187,59.37,18,27,16,,,85,114,199,41,,,,,,17.7,1.9,0.0,19.6
+1989,Steve Yzerman,23,Detroit Red Wings,C,109,34.60,5,14,42,,,65,90,155,17,,,,,,13.0,1.4,0.0,14.4
+1989,Patrick Roy,23,Montreal Canadiens,G,2,0.63,0,0,2,,,0,6,6,0,33,5,6,2.47,.908,0.0,0.0,9.3,9.3
+1989,Joe Mullen,31,Calgary Flames,RW,1,0.32,0,0,1,,,51,59,110,51,,,,,,8.8,2.2,0.0,11.0
+1989,Chris Chelios,27,Montreal Canadiens,D,1,0.32,0,0,1,,,15,58,73,35,,,,,,4.8,6.7,0.0,11.5
+1990,Mark Messier,29,Edmonton Oilers,C,227,72.06,29,24,10,,,45,84,129,19,,,,,,9.8,1.5,0.0,11.3
+1990,Ray Bourque,29,Boston Bruins,D,225,71.43,29,26,2,,,19,65,84,31,,,,,,6.1,6.4,0.0,12.5
+1990,Brett Hull,25,St. Louis Blues,RW,80,25.40,4,9,33,,,72,41,113,-1,,,,,,10.7,1.1,0.0,11.8
+1990,Wayne Gretzky,29,Los Angeles Kings,C,16,5.08,1,2,5,,,40,102,142,8,,,,,,10.5,0.8,0.0,11.3
+1990,Pat LaFontaine,24,New York Islanders,C,8,2.54,0,1,5,,,54,51,105,-13,,,,,,8.9,0.6,0.0,9.5
+1990,Patrick Roy,24,Montreal Canadiens,G,8,2.54,0,1,5,,,0,5,5,0,31,16,5,2.53,.912,0.0,0.0,11.9,11.9
+1990,Steve Yzerman,24,Detroit Red Wings,C,3,0.95,0,0,3,,,62,65,127,-6,,,,,,11.1,0.7,0.0,11.8
+1991,Brett Hull,26,St. Louis Blues,RW,277,83.94,44,18,3,,,86,45,131,23,,,,,,13.8,1.5,0.0,15.4
+1991,Wayne Gretzky,30,Los Angeles Kings,C,220,66.67,20,37,9,,,41,122,163,30,,,,,,13.0,1.5,0.0,14.5
+1991,Ed Belfour,25,Chicago Blackhawks,G,63,19.09,2,7,32,,,0,3,3,0,43,19,7,2.47,.910,0.0,0.0,14.0,14.0
+1991,Ray Bourque,30,Boston Bruins,D,15,4.55,0,3,6,,,21,73,94,33,,,,,,7.6,5.6,0.0,13.2
+1991,Steve Larmer,29,Chicago Blackhawks,RW,5,1.52,0,1,2,,,44,57,101,37,,,,,,8.4,2.2,0.0,10.6
+1991,Theoren Fleury,22,Calgary Flames,RW,5,1.52,0,0,5,,,51,53,104,48,,,,,,9.2,2.1,0.0,11.2
+1991,Joe Sakic,21,Quebec Nordiques,C,3,0.91,0,0,3,,,48,61,109,-26,,,,,,9.5,0.3,0.0,9.8
+1991,Al MacInnis,27,Calgary Flames,D,2,0.61,0,0,2,,,28,75,103,42,,,,,,8.6,5.5,0.0,14.1
+1991,John MacLean,26,New Jersey Devils,RW,1,0.30,0,0,1,,,45,33,78,8,,,,,,6.6,1.2,0.0,7.8
+1991,Mark Messier,30,Edmonton Oilers,C,1,0.30,0,0,1,,,12,52,64,15,,,,,,3.9,1.1,0.0,5.0
+1991,Mark Recchi,22,Pittsburgh Penguins,RW,1,0.30,0,0,1,,,40,73,113,0,,,,,,8.9,0.6,0.0,9.5
+1991,Rick Tocchet,26,Philadelphia Flyers,RW,1,0.30,0,0,1,,,40,31,71,2,,,,,,6.0,1.1,0.0,7.0
+1992,Mark Messier,31,New York Rangers,C,341,98.84,67,2,0,,,35,72,107,31,,,,,,8.1,1.7,0.0,9.9
+1992,Patrick Roy,26,Montreal Canadiens,G,105,30.43,1,27,19,,,0,5,5,0,36,22,8,2.36,.914,0.0,0.0,13.5,13.5
+1992,Brett Hull,27,St. Louis Blues,RW,49,14.20,1,12,8,,,70,39,109,-2,,,,,,11.0,0.9,0.0,11.9
+1992,Kirk McLean,25,Vancouver Canucks,G,37,10.72,0,11,4,,,0,5,5,0,38,17,9,2.74,.901,0.0,0.0,11.4,11.4
+1992,Jeremy Roenick,22,Chicago Blackhawks,C,29,8.41,0,5,14,,,53,50,103,23,,,,,,9.1,1.9,0.0,11.1
+1992,Mario Lemieux,26,Pittsburgh Penguins,C,29,8.41,0,7,18,,,44,87,131,27,,,,,,11.0,1.4,0.0,12.4
+1992,Steve Yzerman,26,Detroit Red Wings,C,10,2.90,0,2,4,,,45,58,103,26,,,,,,8.7,1.4,0.0,10.1
+1992,Kevin Stevens,26,Pittsburgh Penguins,LW,4,1.16,0,1,1,,,54,69,123,8,,,,,,10.6,1.0,0.0,11.5
+1992,Scott Stevens,27,New Jersey Devils,D,3,0.87,0,0,3,,,17,42,59,24,,,,,,4.6,4.6,0.0,9.2
+1992,Brian Leetch,23,New York Rangers,D,3,0.87,0,0,3,,,22,80,102,25,,,,,,8.1,5.1,0.0,13.2
+1992,Trevor Linden,21,Vancouver Canucks,RW,3,0.87,0,1,0,,,31,44,75,3,,,,,,5.2,1.1,0.0,6.3
+1992,Doug Gilmour,28,TOT,C,3,0.87,0,1,0,,,26,61,87,25,,,,,,5.9,1.8,0.0,7.6
+1992,Ray Bourque,31,Boston Bruins,D,1,0.29,0,0,1,,,21,60,81,11,,,,,,6.3,5.0,0.0,11.2
+1992,Tim Cheveldae,23,Detroit Red Wings,G,1,0.29,0,0,1,,,0,4,4,0,38,23,9,3.20,.886,0.0,0.0,10.2,10.2
+1992,Bob Essensa,27,Winnipeg Jets,G,1,0.29,0,0,1,,,0,2,2,0,21,17,6,2.88,.910,0.0,0.0,10.1,10.1
+1992,Dale Hunter,31,Washington Capitals,C,1,0.29,0,0,1,,,28,50,78,-2,,,,,,5.1,0.8,0.0,6.0
+1992,Pat LaFontaine,26,Buffalo Sabres,C,1,0.29,0,0,1,,,46,47,93,10,,,,,,8.9,1.0,0.0,9.9
+1993,Mario Lemieux,27,Pittsburgh Penguins,C,248,99.20,49,1,0,,,69,91,160,55,,,,,,14.7,2.2,0.0,16.8
+1993,Doug Gilmour,29,Toronto Maple Leafs,C,99,39.60,0,29,12,,,32,95,127,32,,,,,,8.7,2.2,0.0,11.0
+1993,Pat LaFontaine,27,Buffalo Sabres,C,52,20.80,1,12,11,,,53,95,148,11,,,,,,11.9,1.3,0.0,13.2
+1993,Adam Oates,30,Boston Bruins,C,28,11.20,0,6,10,,,45,97,142,15,,,,,,10.7,1.5,0.0,12.2
+1993,Pierre Turgeon,23,New York Islanders,C,12,4.80,0,2,6,,,58,74,132,-1,,,,,,11.0,1.0,0.0,12.0
+1993,Teemu Selanne,22,Winnipeg Jets,RW,5,2.00,0,0,5,,,76,56,132,8,,,,,,12.2,1.3,0.0,13.4
+1993,Chris Chelios,31,Chicago Blackhawks,D,3,1.20,0,0,3,,,15,58,73,14,,,,,,4.8,6.3,0.0,11.1
+1993,Steve Yzerman,27,Detroit Red Wings,C,2,0.80,0,0,2,,,58,79,137,33,,,,,,11.1,1.8,0.0,13.0
+1993,Eric Lindros,19,Philadelphia Flyers,C,1,0.40,0,0,1,,,41,34,75,28,,,,,,6.4,1.4,0.0,7.8
+1994,Sergei Fedorov,24,Detroit Red Wings,C,194,71.85,31,11,6,,,56,64,120,48,,,,,,11.7,2.1,0.0,13.8
+1994,Dominik Hasek,29,Buffalo Sabres,G,86,31.85,6,15,11,,,0,3,3,0,30,20,6,1.95,.930,0.0,0.0,13.1,13.1
+1994,John Vanbiesbrouck,30,Florida Panthers,G,74,27.41,7,11,6,,,0,0,0,0,21,25,11,2.53,.924,0.0,0.0,15.2,15.2
+1994,Doug Gilmour,30,Toronto Maple Leafs,C,50,18.52,4,7,9,,,27,84,111,25,,,,,,8.5,1.9,0.0,10.4
+1994,Patrick Roy,28,Montreal Canadiens,G,26,9.63,3,3,2,,,0,1,1,0,35,17,11,2.50,.918,0.0,0.0,14.4,14.4
+1994,Ray Bourque,33,Boston Bruins,D,18,6.67,2,2,2,,,20,71,91,26,,,,,,7.8,5.7,0.0,13.5
+1994,Scott Stevens,29,New Jersey Devils,D,13,4.81,1,1,5,,,18,60,78,53,,,,,,6.3,6.9,0.0,13.2
+1994,Adam Graves,25,New York Rangers,LW,8,2.96,0,1,5,,,52,27,79,27,,,,,,7.8,1.9,0.0,9.8
+1994,Cam Neely,28,Boston Bruins,RW,5,1.85,0,1,2,,,50,24,74,12,,,,,,8.5,1.1,0.0,9.6
+1994,Mike Richter,27,New York Rangers,G,3,1.11,0,1,0,,,0,0,0,0,42,12,6,2.57,.910,0.0,0.0,11.7,11.7
+1994,Jeremy Roenick,24,Chicago Blackhawks,C,3,1.11,0,1,0,,,46,61,107,21,,,,,,9.5,1.8,0.0,11.3
+1994,Pavel Bure,22,Vancouver Canucks,RW,2,0.74,0,0,2,,,60,47,107,1,,,,,,11.3,1.0,0.0,12.3
+1994,Adam Oates,31,Boston Bruins,C,2,0.74,0,0,2,,,32,80,112,10,,,,,,9.1,1.4,0.0,10.5
+1994,Arturs Irbe,26,San Jose Sharks,G,1,0.37,0,0,1,,,0,2,2,0,30,28,16,2.84,.899,0.0,0.0,11.8,11.8
+1994,Igor Larionov,33,San Jose Sharks,C,1,0.37,0,0,1,,,18,38,56,20,,,,,,3.9,1.5,0.0,5.4
+1995,Eric Lindros,21,Philadelphia Flyers,C,63,84.00,10,4,1,,,29,41,70,27,,,,,,7.3,1.5,0.0,8.8
+1995,Jaromir Jagr,22,Pittsburgh Penguins,RW,27,36.00,2,4,5,,,32,38,70,23,,,,,,7.3,1.0,0.0,8.3
+1995,Dominik Hasek,30,Buffalo Sabres,G,23,30.67,3,2,2,,,0,0,0,0,19,14,7,2.11,.930,0.0,0.0,10.3,10.3
+1995,Paul Coffey,33,Detroit Red Wings,D,15,20.00,0,4,3,,,14,44,58,18,,,,,,5.5,3.5,0.0,9.0
+1995,Theoren Fleury,26,Calgary Flames,RW,7,9.33,0,1,4,,,29,29,58,6,,,,,,6.1,0.6,0.0,6.8
+1995,Brett Hull,30,St. Louis Blues,RW,0,0.00,0,0,0,,,29,21,50,13,,,,,,5.5,0.7,0.0,6.1
+1996,Mario Lemieux,30,Pittsburgh Penguins,C,439,81.30,34,10,5,1,1,69,92,161,10,,,,,,16.6,0.7,0.0,17.4
+1996,Mark Messier,35,New York Rangers,C,275,50.93,10,15,10,6,2,47,52,99,29,,,,,,9.6,1.8,0.0,11.3
+1996,Eric Lindros,22,Philadelphia Flyers,C,213,39.44,2,17,7,12,3,47,68,115,26,,,,,,11.0,1.8,0.0,12.8
+1996,Jaromir Jagr,23,Pittsburgh Penguins,RW,156,28.89,5,3,10,10,5,62,87,149,31,,,,,,14.6,1.5,0.0,16.0
+1996,Sergei Fedorov,26,Detroit Red Wings,RW,68,12.59,0,3,6,4,5,39,68,107,49,,,,,,9.5,2.5,0.0,12.0
+1996,Joe Sakic,26,Colorado Avalanche,C,52,9.63,0,0,6,5,7,51,69,120,14,,,,,,11.6,1.1,0.0,12.8
+1996,Grant Fuhr,33,St. Louis Blues,G,52,9.63,1,3,2,2,5,0,1,1,0,30,28,16,2.87,.903,0.0,0.0,12.5,12.5
+1996,Jim Carey,21,Washington Capitals,G,32,5.93,1,0,1,5,2,0,1,1,0,35,24,9,2.26,.906,0.0,0.0,9.9,9.9
+1996,Paul Kariya,21,Mighty Ducks of Anaheim,LW,28,5.19,1,1,1,1,3,50,58,108,9,,,,,,10.3,1.3,0.0,11.6
+1996,Chris Chelios,34,Chicago Blackhawks,D,20,3.70,0,2,1,0,1,14,58,72,25,,,,,,5.7,5.6,0.0,11.3
+1996,Ray Bourque,35,Boston Bruins,D,13,2.41,0,0,1,2,2,20,62,82,31,,,,,,7.4,5.7,0.0,13.0
+1996,Martin Brodeur,23,New Jersey Devils,G,9,1.67,0,0,1,1,1,0,1,1,0,34,30,12,2.34,.911,0.0,0.0,12.8,12.8
+1996,Peter Forsberg,22,Colorado Avalanche,C,8,1.48,0,0,1,0,3,30,86,116,26,,,,,,9.5,1.5,0.0,11.0
+1996,Keith Tkachuk,23,Winnipeg Jets,LW,6,1.11,0,0,0,1,3,50,48,98,11,,,,,,10.0,1.2,0.0,11.2
+1996,John LeClair,26,Philadelphia Flyers,LW,5,0.93,0,0,1,0,0,51,46,97,21,,,,,,9.5,1.7,0.0,11.2
+1996,Daren Puppa,30,Tampa Bay Lightning,G,5,0.93,0,0,0,1,2,0,1,1,0,29,16,9,2.46,.918,0.0,0.0,11.6,11.6
+1996,Steve Yzerman,30,Detroit Red Wings,C,4,0.74,0,0,0,1,1,36,59,95,29,,,,,,8.1,1.9,0.0,10.0
+1996,Alexander Mogilny,26,Vancouver Canucks,RW,4,0.74,0,0,0,1,1,55,52,107,14,,,,,,10.9,1.2,0.0,12.2
+1996,Vladimir Konstantinov,28,Detroit Red Wings,D,3,0.56,0,0,0,1,0,14,20,34,60,,,,,,2.6,8.5,0.0,11.1
+1996,Teemu Selanne,25,TOT,RW,2,0.37,0,0,0,0,2,40,68,108,5,,,,,,9.8,1.1,0.0,10.9
+1996,Peter Bondra,27,Washington Capitals,RW,1,0.19,0,0,0,0,1,52,28,80,18,,,,,,8.6,1.6,0.0,10.2
+1996,Brian Leetch,27,New York Rangers,D,1,0.19,0,0,0,0,1,15,70,85,12,,,,,,7.0,4.5,0.0,11.4
+1996,Scott Mellanby,29,Florida Panthers,RW,1,0.19,0,0,0,0,1,32,38,70,4,,,,,,5.7,1.3,0.0,6.9
+1996,Chris Osgood,23,Detroit Red Wings,G,1,0.19,0,0,0,0,1,1,2,3,0,39,6,5,2.17,.911,0.0,0.0,7.8,7.8
+1997,Dominik Hasek,32,Buffalo Sabres,G,519,96.11,50,2,1,0,0,0,3,3,0,37,20,10,2.27,.930,0.0,0.0,17.2,17.2
+1997,Paul Kariya,22,Mighty Ducks of Anaheim,LW,239,44.26,3,21,9,4,5,44,55,99,36,,,,,,10.6,2.0,0.0,12.6
+1997,Mario Lemieux,31,Pittsburgh Penguins,LW,181,33.52,1,11,12,10,4,50,72,122,27,,,,,,12.8,1.7,0.0,14.5
+1997,Martin Brodeur,24,New Jersey Devils,G,115,21.30,0,7,6,11,3,0,4,4,0,37,14,13,1.88,.927,0.0,0.0,12.4,12.4
+1997,Teemu Selanne,26,Mighty Ducks of Anaheim,RW,70,12.96,0,3,6,5,4,51,58,109,28,,,,,,11.8,1.9,0.0,13.7
+1997,John LeClair,27,Philadelphia Flyers,LW,66,12.22,0,4,5,2,7,50,47,97,44,,,,,,10.6,2.4,0.0,13.0
+1997,Mike Modano,26,Dallas Stars,C,44,8.15,0,0,3,7,8,35,48,83,43,,,,,,7.8,2.4,0.0,10.2
+1997,Patrick Roy,31,Colorado Avalanche,G,31,5.74,0,2,2,0,7,0,1,1,0,38,15,7,2.32,.923,0.0,0.0,13.5,13.5
+1997,Eric Lindros,23,Philadelphia Flyers,C,30,5.56,0,2,2,1,3,32,47,79,31,,,,,,8.4,1.6,0.0,10.0
+1997,Keith Tkachuk,24,Phoenix Coyotes,LW,25,4.63,0,0,2,4,3,52,34,86,-1,,,,,,9.7,1.2,0.0,10.9
+1997,Peter Forsberg,23,Colorado Avalanche,C,17,3.15,0,0,2,2,1,28,58,86,31,,,,,,8.1,1.9,0.0,10.0
+1997,Ziggy Palffy,24,New York Islanders,RW,16,2.96,0,1,1,1,1,48,42,90,21,,,,,,10.2,1.8,0.0,12.0
+1997,Jaromir Jagr,24,Pittsburgh Penguins,RW,15,2.78,0,1,1,0,3,47,48,95,22,,,,,,10.6,1.4,0.0,12.0
+1997,Joe Sakic,27,Colorado Avalanche,C,10,1.85,0,0,0,3,1,22,52,74,-10,,,,,,6.4,0.5,0.0,6.9
+1997,Wayne Gretzky,36,New York Rangers,C,8,1.48,0,0,1,1,0,25,72,97,12,,,,,,8.2,1.3,0.0,9.5
+1997,Brian Leetch,28,New York Rangers,D,6,1.11,0,0,0,2,0,20,58,78,31,,,,,,7.5,5.6,0.0,13.1
+1997,Tony Amonte,26,Chicago Blackhawks,RW,5,0.93,0,0,1,0,0,41,36,77,35,,,,,,7.9,2.2,0.0,10.1
+1997,Mats Sundin,25,Toronto Maple Leafs,C,3,0.56,0,0,0,1,0,41,53,94,6,,,,,,9.7,1.3,0.0,11.0
+1997,Doug Gilmour,33,TOT,C,1,0.19,0,0,0,0,1,22,60,82,2,,,,,,6.7,1.2,0.0,7.9
+1997,Guy Hebert,30,Mighty Ducks of Anaheim,G,1,0.19,0,0,0,0,1,0,1,1,0,29,25,12,2.67,.919,0.0,0.0,14.7,14.7
+1997,Mike Richter,30,New York Rangers,G,1,0.19,0,0,0,0,1,0,0,0,0,33,22,6,2.69,.917,0.0,0.0,13.0,13.0
+1997,Brendan Shanahan,28,TOT,LW,1,0.19,0,0,0,0,1,47,41,88,32,,,,,,9.3,2.3,0.0,11.6
+1998,Dominik Hasek,33,Buffalo Sabres,G,499,92.41,43,7,4,0,0,0,2,2,0,33,23,13,2.09,.932,0.0,0.0,18.6,18.6
+1998,Jaromir Jagr,25,Pittsburgh Penguins,RW,308,57.04,4,25,16,4,1,35,67,102,17,,,,,,10.9,1.7,0.0,12.6
+1998,Teemu Selanne,27,Mighty Ducks of Anaheim,RW,247,45.74,5,14,16,4,7,52,34,86,12,,,,,,12.0,1.3,0.0,13.3
+1998,Martin Brodeur,25,New Jersey Devils,G,115,21.30,1,5,7,8,11,0,3,3,0,43,17,8,1.89,.917,0.0,0.0,11.1,11.1
+1998,Wayne Gretzky,37,New York Rangers,C,46,8.52,1,0,1,9,4,23,67,90,-11,,,,,,8.2,0.9,0.0,9.1
+1998,Peter Bondra,29,Washington Capitals,RW,40,7.41,0,1,3,5,3,52,26,78,14,,,,,,10.5,1.6,0.0,12.1
+1998,John LeClair,28,Philadelphia Flyers,LW,34,6.30,0,0,3,5,4,51,36,87,30,,,,,,11.0,2.1,0.0,13.1
+1998,Peter Forsberg,24,Colorado Avalanche,C,26,4.81,0,0,0,7,5,25,66,91,6,,,,,,9.0,1.1,0.0,10.1
+1998,Jason Allison,22,Boston Bruins,C,18,3.33,0,1,1,1,3,33,50,83,33,,,,,,8.9,2.4,0.0,11.3
+1998,Rob Blake,28,Los Angeles Kings,D,17,3.15,0,0,1,2,5,23,27,50,-3,,,,,,5.9,3.0,0.0,8.8
+1998,Olaf Kolzig,27,Washington Capitals,G,8,1.48,0,0,1,1,0,0,1,1,0,33,18,10,2.20,.920,0.0,0.0,12.7,12.7
+1998,Byron Dafoe,26,Boston Bruins,G,7,1.30,0,1,0,0,0,0,3,3,0,30,25,9,2.24,.914,0.0,0.0,10.8,10.8
+1998,Joe Nieuwendyk,31,Dallas Stars,C,7,1.30,0,0,1,0,2,39,30,69,16,,,,,,8.4,1.7,0.0,10.0
+1998,Nicklas Lidstrom,27,Detroit Red Wings,D,7,1.30,0,0,0,2,1,17,42,59,22,,,,,,6.1,5.5,0.0,11.6
+1998,Ed Belfour,32,Dallas Stars,G,6,1.11,0,0,0,1,3,0,0,0,0,37,12,10,1.88,.916,0.0,0.0,9.3,9.3
+1998,Chris Pronger,23,St. Louis Blues,D,6,1.11,0,0,0,2,0,9,27,36,47,,,,,,2.9,7.3,0.0,10.3
+1998,Ron Francis,34,Pittsburgh Penguins,C,6,1.11,0,0,0,2,0,25,62,87,12,,,,,,8.2,1.6,0.0,9.8
+1998,Tom Barrasso,32,Pittsburgh Penguins,G,3,0.56,0,0,0,1,0,0,2,2,0,31,14,13,2.07,.922,0.0,0.0,11.8,11.8
+1998,Steve Yzerman,32,Detroit Red Wings,C,2,0.37,0,0,0,0,2,24,45,69,3,,,,,,6.7,0.9,0.0,7.6
+1998,Bobby Holik,27,New Jersey Devils,C,1,0.19,0,0,0,0,1,29,36,65,23,,,,,,6.5,2.1,0.0,8.6
+1998,Curtis Joseph,30,Edmonton Oilers,G,1,0.19,0,0,0,0,1,0,2,2,0,29,31,9,2.63,.905,0.0,0.0,11.0,11.0
+1999,Jaromir Jagr,26,Pittsburgh Penguins,RW,543,96.96,51,4,1,0,0,44,83,127,17,,,,,,11.9,2.7,0.0,14.6
+1999,Alexei Yashin,25,Ottawa Senators,C,226,40.36,0,23,9,5,5,44,50,94,16,,,,,,9.6,2.4,0.0,12.0
+1999,Dominik Hasek,34,Buffalo Sabres,G,172,30.71,4,10,8,5,7,0,0,0,0,30,18,14,1.87,.937,0.0,0.0,16.8,16.8
+1999,Curtis Joseph,31,Toronto Maple Leafs,G,118,21.07,1,5,10,7,2,0,5,5,0,35,24,7,2.56,.910,0.0,0.0,11.6,11.6
+1999,Teemu Selanne,28,Mighty Ducks of Anaheim,RW,111,19.82,0,3,14,5,5,47,60,107,18,,,,,,11.6,2.7,0.0,14.3
+1999,Eric Lindros,25,Philadelphia Flyers,C,77,13.75,0,4,5,6,6,40,53,93,35,,,,,,9.2,3.1,0.0,12.4
+1999,Peter Forsberg,25,Colorado Avalanche,C,61,10.89,0,3,4,5,5,30,67,97,27,,,,,,8.0,2.8,0.0,10.8
+1999,Paul Kariya,24,Mighty Ducks of Anaheim,LW,48,8.57,0,2,2,6,6,39,62,101,17,,,,,,9.1,3.1,0.0,12.2
+1999,Byron Dafoe,27,Boston Bruins,G,40,7.14,0,1,1,7,7,0,2,2,0,32,23,11,2.00,.926,0.0,0.0,14.1,14.1
+1999,Al MacInnis,35,St. Louis Blues,D,24,4.29,0,1,1,3,3,20,42,62,33,,,,,,6.0,7.7,0.0,13.6
+1999,Mike Modano,28,Dallas Stars,C,13,2.32,0,0,0,3,4,34,47,81,29,,,,,,7.6,3.1,0.0,10.7
+1999,Pavol Demitra,24,St. Louis Blues,LW,7,1.25,0,0,0,2,1,37,52,89,13,,,,,,8.5,2.2,0.0,10.7
+1999,Steve Yzerman,33,Detroit Red Wings,C,7,1.25,0,0,1,0,2,29,45,74,8,,,,,,5.8,2.0,0.0,7.8
+1999,Ron Tugnutt,31,Ottawa Senators,G,4,0.71,0,0,0,1,1,0,0,0,0,22,10,8,1.79,.925,0.0,0.0,7.8,7.8
+1999,Joe Sakic,29,Colorado Avalanche,C,3,0.54,0,0,0,1,0,41,55,96,23,,,,,,8.9,2.7,0.0,11.6
+1999,Martin Brodeur,26,New Jersey Devils,G,1,0.18,0,0,0,0,1,0,4,4,0,39,21,10,2.29,.906,0.0,0.0,9.8,9.8
+1999,Mats Sundin,27,Toronto Maple Leafs,C,1,0.18,0,0,0,0,1,31,52,83,22,,,,,,7.2,1.7,0.0,8.9
+2000,Chris Pronger,25,St. Louis Blues,D,396,68.28,25,9,11,8,4,14,48,62,52,,,,,,5.2,9.6,0.0,14.8
+2000,Jaromir Jagr,27,Pittsburgh Penguins,RW,395,68.10,18,22,9,4,4,42,54,96,25,,,,,,9.9,2.3,0.0,12.2
+2000,Pavel Bure,28,Florida Panthers,RW,346,59.66,11,18,16,9,3,58,36,94,25,,,,,,10.7,2.8,0.0,13.5
+2000,Olaf Kolzig,29,Washington Capitals,G,139,23.97,2,3,12,10,8,0,2,2,0,41,20,11,2.24,.917,0.0,0.0,14.6,14.6
+2000,Owen Nolan,27,San Jose Sharks,RW,62,10.69,1,0,3,7,16,44,40,84,-1,,,,,,8.6,1.8,0.0,10.5
+2000,Mark Recchi,31,Philadelphia Flyers,RW,30,5.17,0,1,2,3,4,28,63,91,20,,,,,,7.6,3.1,0.0,10.7
+2000,Roman Turek,29,St. Louis Blues,G,30,5.17,0,2,1,3,2,0,1,1,0,42,15,9,1.95,.912,0.0,0.0,10.2,10.2
+2000,Steve Yzerman,34,Detroit Red Wings,C,26,4.48,1,0,1,3,2,35,44,79,28,,,,,,7.3,2.5,0.0,9.8
+2000,Nicklas Lidstrom,29,Detroit Red Wings,D,22,3.79,0,1,0,4,3,20,53,73,19,,,,,,7.1,5.8,0.0,13.0
+2000,Mike Modano,29,Dallas Stars,C,21,3.62,0,2,0,2,1,38,43,81,0,,,,,,7.3,2.5,0.0,9.7
+2000,Curtis Joseph,32,Toronto Maple Leafs,G,16,2.76,0,0,2,1,3,0,1,1,0,36,20,7,2.49,.915,0.0,0.0,13.4,13.4
+2000,Martin Brodeur,27,New Jersey Devils,G,6,1.03,0,0,0,1,3,1,4,5,0,43,20,8,2.24,.910,0.0,0.0,12.1,12.1
+2000,Chris Simon,28,Washington Capitals,LW,5,0.86,0,0,1,0,0,29,20,49,11,,,,,,4.9,1.6,0.0,6.6
+2000,Joe Sakic,30,Colorado Avalanche,C,4,0.69,0,0,0,1,1,28,53,81,30,,,,,,7.4,2.7,0.0,10.1
+2000,Brendan Shanahan,31,Detroit Red Wings,LW,3,0.52,0,0,0,1,0,41,37,78,24,,,,,,8.3,2.2,0.0,10.5
+2000,Ed Belfour,34,Dallas Stars,G,3,0.52,0,0,0,0,3,0,3,3,0,32,21,7,2.10,.919,0.0,0.0,12.1,12.1
+2000,Patrik Elias,23,New Jersey Devils,LW,1,0.17,0,0,0,0,1,35,37,72,16,,,,,,7.4,2.0,0.0,9.4
+2000,Dominik Hasek,35,Buffalo Sabres,G,1,0.17,0,0,0,0,1,0,1,1,0,15,11,6,2.21,.919,0.0,0.0,7.2,7.2
+2000,Jarome Iginla,22,Calgary Flames,RW,1,0.17,0,0,0,0,1,29,34,63,0,,,,,,5.4,1.5,0.0,7.0
+2000,Adam Oates,37,Washington Capitals,C,1,0.17,0,0,0,0,1,15,56,71,13,,,,,,3.9,2.4,0.0,6.3
+2001,Joe Sakic,31,Colorado Avalanche,C,582,93.87,53,6,2,1,0,54,64,118,45,,,,,,12.2,3.6,0.0,15.9
+2001,Mario Lemieux,35,Pittsburgh Penguins,C,272,43.87,8,17,10,6,5,35,41,76,15,,,,,,8.3,1.3,0.0,9.5
+2001,Jaromir Jagr,28,Pittsburgh Penguins,RW,210,33.87,0,20,10,5,5,52,69,121,19,,,,,,12.1,2.0,0.0,14.1
+2001,Roman Cechmanek,29,Philadelphia Flyers,G,89,14.35,0,2,8,10,5,0,1,1,0,35,15,6,2.01,.921,0.0,0.0,11.9,11.9
+2001,Martin Brodeur,28,New Jersey Devils,G,64,10.32,0,4,4,4,4,0,1,1,0,42,17,11,2.32,.906,0.0,0.0,11.3,11.3
+2001,Patrik Elias,24,New Jersey Devils,LW,61,9.84,0,3,4,5,5,40,56,96,45,,,,,,9.5,3.0,0.0,12.5
+2001,Doug Weight,30,Edmonton Oilers,C,61,9.84,0,2,7,2,6,25,65,90,12,,,,,,6.8,2.2,0.0,9.0
+2001,Dominik Hasek,36,Buffalo Sabres,G,42,6.77,0,3,2,3,2,0,3,3,0,37,24,4,2.11,.921,0.0,0.0,13.9,13.9
+2001,Pavel Bure,29,Florida Panthers,RW,41,6.61,0,0,4,5,6,59,33,92,-2,,,,,,9.5,2.4,0.0,11.9
+2001,Nicklas Lidstrom,30,Detroit Red Wings,D,38,6.13,0,2,1,6,1,15,56,71,9,,,,,,6.4,5.8,0.0,12.2
+2001,Markus Naslund,27,Vancouver Canucks,RW,20,3.23,1,1,0,0,3,41,34,75,-2,,,,,,8.2,1.3,0.0,9.5
+2001,Sean Burke,34,Phoenix Coyotes,G,17,2.74,0,0,2,1,4,0,1,1,0,25,22,13,2.27,.922,0.0,0.0,14.4,14.4
+2001,Mike Modano,30,Dallas Stars,C,17,2.74,0,0,1,3,3,33,51,84,26,,,,,,6.9,3.2,0.0,10.2
+2001,Alexei Yashin,27,Ottawa Senators,C,15,2.42,0,0,2,1,2,40,48,88,10,,,,,,8.6,1.9,0.0,10.5
+2001,Scott Stevens,36,New Jersey Devils,D,13,2.10,0,0,2,1,0,9,22,31,40,,,,,,1.9,6.1,0.0,8.1
+2001,Alex Kovalev,27,Pittsburgh Penguins,RW,10,1.61,0,1,0,1,0,44,51,95,12,,,,,,8.8,1.7,0.0,10.5
+2001,Tommy Salo,29,Edmonton Oilers,G,10,1.61,0,0,2,0,0,0,1,1,0,36,25,12,2.46,.904,0.0,0.0,11.5,11.5
+2001,Evgeni Nabokov,25,San Jose Sharks,G,8,1.29,0,0,1,0,3,0,2,2,0,32,21,7,2.19,.915,0.0,0.0,11.7,11.7
+2001,Sergei Fedorov,31,Detroit Red Wings,C,7,1.13,0,1,0,0,0,32,37,69,12,,,,,,6.0,2.3,0.0,8.2
+2001,Peter Bondra,32,Washington Capitals,LW,7,1.13,0,0,0,1,4,45,36,81,8,,,,,,8.0,2.3,0.0,10.3
+2001,Jason Allison,25,Boston Bruins,C,4,0.65,0,0,0,1,1,36,59,95,-8,,,,,,8.1,1.8,0.0,9.9
+2001,Steve Yzerman,35,Detroit Red Wings,C,4,0.65,0,0,0,1,1,18,34,52,4,,,,,,3.9,1.5,0.0,5.4
+2001,Mark Recchi,32,Philadelphia Flyers,RW,3,0.48,0,0,0,1,0,27,50,77,15,,,,,,6.7,2.1,0.0,8.7
+2001,Keith Primeau,29,Philadelphia Flyers,C,3,0.48,0,0,0,1,0,34,39,73,17,,,,,,7.2,2.1,0.0,9.3
+2001,Patrick Lalime,26,Ottawa Senators,G,3,0.48,0,0,0,1,0,0,1,1,0,36,19,5,2.35,.914,0.0,0.0,12.0,12.0
+2001,Brett Hull,36,Dallas Stars,RW,3,0.48,0,0,0,1,0,39,40,79,10,,,,,,8.2,2.1,0.0,10.3
+2001,Rob Blake,31,TOT,D,3,0.48,0,0,0,1,0,19,40,59,3,,,,,,6.0,3.5,0.0,9.5
+2001,Arturs Irbe,33,Carolina Hurricanes,G,1,0.16,0,0,0,0,1,0,2,2,0,37,29,9,2.45,.908,0.0,0.0,12.9,12.9
+2001,Jeff O'Neill,24,Carolina Hurricanes,RW,1,0.16,0,0,0,0,1,41,26,67,-18,,,,,,6.8,1.5,0.0,8.3
+2002,Jose Theodore,25,Montreal Canadiens,G,434,70.00,26,16,9,5,2,0,2,2,0,30,24,10,2.11,.931,0.0,0.0,17.4,17.4
+2002,Jarome Iginla,24,Calgary Flames,RW,434,70.00,23,18,12,5,3,52,44,96,27,,,,,,11.2,3.2,0.0,14.4
+2002,Patrick Roy,36,Colorado Avalanche,G,283,45.65,8,15,12,11,5,0,3,3,0,32,23,8,1.94,.925,0.0,0.0,13.3,13.3
+2002,Sean Burke,35,Phoenix Coyotes,G,172,27.74,2,5,16,10,7,0,1,1,0,33,21,6,2.29,.920,0.0,0.0,12.9,12.9
+2002,Markus Naslund,28,Vancouver Canucks,LW,64,10.32,0,0,4,10,14,40,50,90,22,,,,,,9.6,2.3,0.0,11.9
+2002,Ron Francis,38,Carolina Hurricanes,C,48,7.74,1,2,3,2,3,27,50,77,4,,,,,,6.7,2.1,0.0,8.7
+2002,Joe Sakic,32,Colorado Avalanche,C,41,6.61,2,1,2,1,1,26,53,79,12,,,,,,6.3,2.9,0.0,9.2
+2002,Mats Sundin,30,Toronto Maple Leafs,C,35,5.65,0,2,0,5,6,41,39,80,6,,,,,,8.7,1.6,0.0,10.3
+2002,Brendan Shanahan,33,Detroit Red Wings,LW,24,3.87,0,2,1,1,2,37,38,75,23,,,,,,7.8,2.5,0.0,10.3
+2002,Michael Peca,27,New York Islanders,C,11,1.77,0,1,0,1,1,25,35,60,19,,,,,,4.8,2.4,0.0,7.2
+2003,Peter Forsberg,29,Colorado Avalanche,C,508,81.94,38,13,6,2,1,29,77,106,52,,,,,,10.2,3.4,0.0,13.6
+2003,Markus Naslund,29,Vancouver Canucks,LW,342,55.16,5,26,17,7,4,48,56,104,6,,,,,,11.7,1.8,0.0,13.5
+2003,Martin Brodeur,30,New Jersey Devils,G,311,50.16,14,12,11,10,2,0,0,0,0,41,23,9,2.02,.914,0.0,0.0,11.4,11.4
+2003,Joe Thornton,23,Boston Bruins,C,131,21.13,0,6,6,15,14,36,65,101,12,,,,,,10.1,2.0,0.0,12.1
+2003,Todd Bertuzzi,27,Vancouver Canucks,RW,100,16.13,2,2,7,7,10,46,51,97,2,,,,,,10.6,1.7,0.0,12.3
+2003,Al MacInnis,39,St. Louis Blues,D,46,7.42,0,2,4,3,3,16,52,68,22,,,,,,6.7,5.6,0.0,12.3
+2003,Mike Modano,32,Dallas Stars,C,43,6.94,1,0,3,5,3,28,57,85,34,,,,,,7.6,3.1,0.0,10.7
+2003,Nicklas Lidstrom,32,Detroit Red Wings,D,41,6.61,0,0,4,6,3,18,44,62,40,,,,,,6.1,7.1,0.0,13.2
+2003,Sergei Fedorov,33,Detroit Red Wings,C,22,3.55,1,0,2,0,2,36,47,83,15,,,,,,8.1,2.0,0.0,10.1
+2003,Marian Hossa,24,Ottawa Senators,RW,14,2.26,0,0,1,2,3,45,35,80,8,,,,,,9.2,1.9,0.0,11.1
+2003,Marty Turco,27,Dallas Stars,G,11,1.77,0,0,1,1,3,0,3,3,0,31,10,10,1.73,.932,0.0,0.0,11.9,11.9
+2003,Patrick Roy,37,Colorado Avalanche,G,10,1.61,1,0,0,0,0,0,0,0,0,35,15,13,2.18,.920,0.0,0.0,12.8,12.8
+2003,Milan Hejduk,26,Colorado Avalanche,RW,10,1.61,0,1,0,0,3,50,48,98,52,,,,,,11.1,3.5,0.0,14.6
+2003,Nikolai Khabibulin,30,Tampa Bay Lightning,G,7,1.13,0,0,0,2,1,0,3,3,0,30,22,11,2.47,.911,0.0,0.0,11.2,11.2
+2003,Ed Belfour,37,Toronto Maple Leafs,G,6,0.97,0,0,0,1,3,0,2,2,0,37,20,5,2.26,.922,0.0,0.0,13.9,13.9
+2003,Mario Lemieux,37,Pittsburgh Penguins,C,6,0.97,0,0,0,1,3,28,63,91,-25,,,,,,8.3,1.1,0.0,9.4
+2003,Dany Heatley,22,Atlanta Thrashers,RW,2,0.32,0,0,0,0,2,41,48,89,-8,,,,,,9.7,1.4,0.0,11.0
+2003,Jean-Sebastien Giguere,25,Mighty Ducks of Anaheim,G,1,0.16,0,0,0,0,1,0,0,0,0,34,22,6,2.30,.920,0.0,0.0,13.5,13.5
+2003,Mats Sundin,31,Toronto Maple Leafs,C,1,0.16,0,0,0,0,1,37,35,72,1,,,,,,7.4,1.6,0.0,9.0
+2004,Martin St. Louis,28,Tampa Bay Lightning,RW,1016,96.76,97,5,1,2,0,38,56,94,35,,,,,,10.1,3.1,0.0,13.2
+2004,Jarome Iginla,26,Calgary Flames,RW,253,24.10,2,20,15,3,9,41,32,73,21,,,,,,8.0,3.1,0.0,11.1
+2004,Martin Brodeur,31,New Jersey Devils,G,213,20.29,2,14,11,11,7,0,0,0,0,38,26,11,2.03,.917,0.0,0.0,12.5,12.5
+2004,Miikka Kiprusoff,27,Calgary Flames,G,193,18.38,0,19,7,7,4,0,1,1,0,24,10,4,1.69,.933,0.0,0.0,8.4,8.4
+2004,Markus Naslund,30,Vancouver Canucks,LW,176,16.76,0,11,10,13,10,35,49,84,24,,,,,,9.0,2.5,0.0,11.4
+2004,Roberto Luongo,24,Florida Panthers,G,167,15.90,2,10,8,8,13,0,3,3,0,25,33,14,2.43,.931,0.0,0.0,20.9,20.9
+2004,Joe Sakic,34,Colorado Avalanche,C,144,13.71,0,6,9,15,12,33,54,87,11,,,,,,8.6,2.2,0.0,10.8
+2004,Marty Turco,28,Dallas Stars,G,87,8.29,0,3,8,6,8,0,1,1,0,37,21,13,1.98,.913,0.0,0.0,10.4,10.4
+2004,Scott Niedermayer,30,New Jersey Devils,D,70,6.67,0,2,6,7,5,14,40,54,20,,,,,,5.1,6.9,0.0,12.0
+2004,Ed Belfour,38,Toronto Maple Leafs,G,59,5.62,1,2,3,5,5,0,2,2,0,34,19,6,2.13,.918,0.0,0.0,10.3,10.3
+2004,Ilya Kovalchuk,20,Atlanta Thrashers,LW,59,5.62,0,1,7,4,5,41,46,87,-10,,,,,,8.9,1.7,0.0,10.6
+2004,Mats Sundin,32,Toronto Maple Leafs,C,55,5.24,0,4,4,1,4,31,44,75,11,,,,,,7.2,2.0,0.0,9.2
+2004,Andrew Raycroft,23,Boston Bruins,G,43,4.10,0,1,5,3,2,0,2,2,0,29,18,9,2.05,.926,0.0,0.0,12.6,12.6
+2004,Patrik Elias,27,New Jersey Devils,LW,37,3.52,0,1,3,4,3,38,43,81,26,,,,,,8.8,3.0,0.0,11.8
+2004,Joe Thornton,24,Boston Bruins,C,37,3.52,1,2,1,2,2,23,50,73,18,,,,,,6.3,2.5,0.0,8.8
+2004,Chris Pronger,29,St. Louis Blues,D,29,2.76,0,2,1,2,4,14,40,54,-1,,,,,,5.1,5.7,0.0,10.8
+2004,Daniel Alfredsson,31,Ottawa Senators,RW,22,2.10,0,1,1,3,1,32,48,80,12,,,,,,8.6,1.9,0.0,10.4
+2004,Marian Hossa,25,Ottawa Senators,RW,17,1.62,0,0,3,0,2,36,46,82,4,,,,,,9.2,1.6,0.0,10.8
+2004,Jose Theodore,27,Montreal Canadiens,G,14,1.33,0,1,0,2,1,0,3,3,0,33,28,5,2.27,.919,0.0,0.0,13.2,13.2
+2004,Pavel Datsyuk,25,Detroit Red Wings,C,10,0.95,0,0,0,3,1,30,38,68,-2,,,,,,7.2,1.2,0.0,8.4
+2004,Patrick Marleau,24,San Jose Sharks,C,6,0.57,0,0,1,0,1,28,29,57,-5,,,,,,5.4,1.3,0.0,6.8
+2004,Brad Richards,23,Tampa Bay Lightning,C,5,0.48,0,0,1,0,0,26,53,79,13,,,,,,7.1,2.2,0.0,9.3
+2004,Evgeni Nabokov,28,San Jose Sharks,G,4,0.38,0,0,0,1,1,0,0,0,0,31,19,8,2.21,.921,0.0,0.0,11.8,11.8
+2004,Robert Lang,33,TOT,C,4,0.38,0,0,0,1,1,30,49,79,4,,,,,,8.1,1.9,0.0,10.0
+2004,Zdeno Chara,26,Ottawa Senators,D,3,0.29,0,0,0,1,0,16,25,41,33,,,,,,4.3,6.1,0.0,10.3
+2004,Mark Recchi,35,Philadelphia Flyers,LW,3,0.29,0,0,0,1,0,26,49,75,18,,,,,,7.2,2.2,0.0,9.4
+2004,Rick Nash,19,Columbus Blue Jackets,LW,3,0.29,0,0,0,0,3,41,16,57,-35,,,,,,7.1,0.6,0.0,7.7
+2004,Kris Draper,32,Detroit Red Wings,C,1,0.10,0,0,0,0,1,24,16,40,22,,,,,,3.9,2.1,0.0,6.0
+2006,Joe Thornton,26,TOT,C,1058,82.02,67,48,9,1,4,29,96,125,31,,,,,,10.2,3.1,0.0,13.3
+2006,Jaromir Jagr,33,New York Rangers,RW,974,75.50,48,49,30,0,1,54,69,123,34,,,,,,12.1,3.4,0.0,15.5
+2006,Miikka Kiprusoff,29,Calgary Flames,G,561,43.49,10,24,45,20,8,0,2,2,0,42,20,11,2.07,.923,0.0,0.0,16.2,16.2
+2006,Eric Staal,21,Carolina Hurricanes,C,121,9.38,0,0,9,18,22,45,55,100,-8,,,,,,9.8,1.3,0.0,11.1
+2006,Daniel Alfredsson,33,Ottawa Senators,RW,119,9.22,0,2,6,20,15,43,60,103,29,,,,,,9.7,2.6,0.0,12.3
+2006,Alex Ovechkin,20,Washington Capitals,LW,109,8.45,1,0,8,14,17,52,54,106,2,,,,,,11.0,1.6,0.0,12.7
+2006,Nicklas Lidstrom,35,Detroit Red Wings,D,106,8.22,1,2,7,12,11,16,64,80,21,,,,,,6.8,6.1,0.0,12.9
+2006,Scott Niedermayer,32,Mighty Ducks of Anaheim,D,66,5.12,1,0,2,13,7,13,50,63,8,,,,,,5.0,5.0,0.0,10.0
+2006,Henrik Lundqvist,23,New York Rangers,G,46,3.57,0,2,4,2,6,0,2,2,0,30,12,9,2.24,.922,0.0,0.0,12.2,12.2
+2006,Rod Brind'Amour,35,Carolina Hurricanes,C,33,2.56,0,1,3,3,2,31,39,70,8,,,,,,4.5,2.2,0.0,6.8
+2006,Dany Heatley,25,Ottawa Senators,LW,33,2.56,0,0,3,4,6,50,53,103,29,,,,,,10.2,2.7,0.0,12.9
+2006,Martin Brodeur,33,New Jersey Devils,G,22,1.71,0,0,0,6,4,0,3,3,0,43,23,7,2.57,.911,0.0,0.0,14.9,14.9
+2006,Brian Gionta,27,New Jersey Devils,RW,18,1.40,0,0,1,2,7,48,41,89,18,,,,,,8.5,2.9,0.0,11.4
+2006,Teemu Selanne,35,Mighty Ducks of Anaheim,RW,18,1.40,0,0,0,5,3,40,50,90,28,,,,,,8.7,2.7,0.0,11.4
+2006,Jonathan Cheechoo,25,San Jose Sharks,RW,16,1.24,0,1,0,2,3,56,37,93,23,,,,,,10.0,2.7,0.0,12.7
+2006,Tomas Vokoun,29,Nashville Predators,G,13,1.01,1,0,0,0,3,0,2,2,0,36,18,7,2.67,.919,0.0,0.0,15.8,15.8
+2006,Peter Forsberg,32,Philadelphia Flyers,C,11,0.85,0,0,1,2,0,19,56,75,21,,,,,,6.1,1.8,0.0,8.0
+2006,Marty Turco,30,Dallas Stars,G,5,0.39,0,0,1,0,0,0,2,2,0,41,19,5,2.55,.898,0.0,0.0,9.2,9.2
+2006,Zdeno Chara,28,Ottawa Senators,D,4,0.31,0,0,0,1,1,16,27,43,17,,,,,,3.6,4.5,0.0,8.1
+2006,Mike Modano,35,Dallas Stars,C,4,0.31,0,0,0,1,1,27,50,77,23,,,,,,5.6,2.8,0.0,8.4
+2006,Ryan Miller,25,Buffalo Sabres,G,3,0.23,0,0,0,1,0,0,2,2,0,30,14,3,2.60,.914,0.0,0.0,10.6,10.6
+2006,Simon Gagne,25,Philadelphia Flyers,LW,3,0.23,0,0,0,1,0,47,32,79,31,,,,,,8.3,2.5,0.0,10.8
+2006,Pavel Datsyuk,27,Detroit Red Wings,C,3,0.23,0,0,0,1,0,28,59,87,26,,,,,,7.4,2.4,0.0,9.8
+2006,Sidney Crosby,18,Pittsburgh Penguins,C,2,0.16,0,0,0,0,2,39,63,102,-1,,,,,,8.9,1.6,0.0,10.5
+2006,Ilya Kovalchuk,22,Atlanta Thrashers,LW,2,0.16,0,0,0,0,2,52,46,98,-6,,,,,,9.8,1.4,0.0,11.2
+2006,Paul Kariya,31,Nashville Predators,LW,1,0.08,0,0,0,0,1,31,54,85,-6,,,,,,6.8,1.5,0.0,8.4
+2006,Chris Pronger,31,Edmonton Oilers,D,1,0.08,0,0,0,0,1,12,44,56,2,,,,,,4.0,5.6,0.0,9.6
+2006,Brad Richards,25,Tampa Bay Lightning,C,1,0.08,0,0,0,0,1,23,68,91,0,,,,,,5.6,2.4,0.0,8.0
+2006,Marek Svatos,23,Colorado Avalanche,RW,1,0.08,0,0,0,0,1,32,18,50,0,,,,,,5.6,0.9,0.0,6.4
+2007,Sidney Crosby,19,Pittsburgh Penguins,C,1225,85.66,91,34,14,2,1,36,84,120,10,,,,,,11.3,2.0,0.0,13.3
+2007,Roberto Luongo,27,Vancouver Canucks,G,801,56.01,25,46,35,16,6,0,2,2,0,47,22,6,2.28,.921,0.0,0.0,17.1,17.1
+2007,Martin Brodeur,34,New Jersey Devils,G,763,53.36,21,45,39,12,7,0,1,1,0,48,23,7,2.18,.922,0.0,0.0,17.3,17.3
+2007,Vincent Lecavalier,26,Tampa Bay Lightning,C,362,25.31,5,6,22,48,16,52,56,108,2,,,,,,11.2,2.2,0.0,13.4
+2007,Joe Thornton,27,San Jose Sharks,C,230,16.08,0,8,11,27,38,22,92,114,24,,,,,,9.0,3.2,0.0,12.2
+2007,Nicklas Lidstrom,36,Detroit Red Wings,D,53,3.71,1,1,3,4,9,13,49,62,40,,,,,,5.3,7.9,0.0,13.1
+2007,Scott Niedermayer,33,Anaheim Ducks,D,45,3.15,0,1,3,4,11,15,54,69,6,,,,,,6.1,5.6,0.0,11.7
+2007,Joe Sakic,37,Colorado Avalanche,C,44,3.08,0,0,4,5,9,36,64,100,2,,,,,,9.1,1.7,0.0,10.8
+2007,Teemu Selanne,36,Anaheim Ducks,RW,36,2.52,0,0,2,6,8,48,46,94,26,,,,,,10.3,2.7,0.0,13.0
+2007,Marian Hossa,28,Atlanta Thrashers,RW,35,2.45,0,0,3,4,8,43,57,100,18,,,,,,9.9,2.5,0.0,12.4
+2007,Daniel Briere,29,Buffalo Sabres,C,33,2.31,0,2,0,5,4,32,63,95,17,,,,,,8.4,1.6,0.0,10.0
+2007,Dany Heatley,26,Ottawa Senators,RW,28,1.96,0,0,2,3,9,50,55,105,31,,,,,,10.8,2.6,0.0,13.4
+2007,Chris Drury,30,Buffalo Sabres,C,14,0.98,0,0,1,2,3,37,32,69,1,,,,,,6.6,0.9,0.0,7.5
+2007,Martin St. Louis,31,Tampa Bay Lightning,RW,12,0.84,0,0,1,2,1,43,59,102,7,,,,,,9.2,2.6,0.0,11.8
+2007,Jarome Iginla,29,Calgary Flames,RW,10,0.70,0,0,0,2,4,39,55,94,12,,,,,,9.2,1.9,0.0,11.1
+2007,Paul Kariya,32,Nashville Predators,LW,5,0.35,0,0,1,0,0,24,52,76,6,,,,,,5.4,1.8,0.0,7.2
+2007,Daniel Alfredsson,34,Ottawa Senators,RW,5,0.35,0,0,1,0,0,29,58,87,42,,,,,,7.0,3.0,0.0,10.0
+2007,Brendan Shanahan,38,New York Rangers,LW,5,0.35,0,0,1,0,0,29,33,62,2,,,,,,5.5,1.7,0.0,7.2
+2007,Jaromir Jagr,34,New York Rangers,RW,3,0.21,0,0,0,1,0,30,66,96,26,,,,,,7.8,3.2,0.0,11.0
+2007,Ryan Miller,26,Buffalo Sabres,G,2,0.14,0,0,0,0,2,0,2,2,0,40,16,6,2.73,.911,0.0,0.0,12.7,12.7
+2007,Marian Gaborik,24,Minnesota Wild,RW,2,0.14,0,0,0,0,2,30,27,57,12,,,,,,6.3,1.8,0.0,8.1
+2007,Dominik Hasek,42,Detroit Red Wings,G,1,0.07,0,0,0,0,1,0,2,2,0,38,11,6,2.05,.913,0.0,0.0,9.1,9.1
+2007,Henrik Lundqvist,24,New York Rangers,G,1,0.07,0,0,0,0,1,0,0,0,0,37,22,8,2.34,.917,0.0,0.0,14.3,14.3
+2007,Thomas Vanek,23,Buffalo Sabres,LW,1,0.07,0,0,0,0,1,43,41,84,47,,,,,,8.9,2.7,0.0,11.6
+2007,Alex Ovechkin,21,Washington Capitals,LW,1,0.07,0,0,0,0,1,46,46,92,-19,,,,,,9.6,0.9,0.0,10.5
+2007,Chris Pronger,32,Anaheim Ducks,D,1,0.07,0,0,0,0,1,13,46,59,27,,,,,,5.3,6.4,0.0,11.7
+2008,Alex Ovechkin,22,Washington Capitals,LW,1313,97.99,128,4,1,0,0,65,47,112,28,,,,,,14.1,3.1,0.0,17.2
+2008,Evgeni Malkin,21,Pittsburgh Penguins,C,659,49.18,1,66,27,13,13,47,59,106,16,,,,,,11.5,2.4,0.0,13.9
+2008,Jarome Iginla,30,Calgary Flames,RW,565,42.16,2,41,33,26,15,50,48,98,27,,,,,,11.3,2.9,0.0,14.2
+2008,Nicklas Lidstrom,37,Detroit Red Wings,D,246,18.36,2,7,17,24,20,10,60,70,40,,,,,,6.4,8.1,0.0,14.4
+2008,Martin Brodeur,35,New Jersey Devils,G,239,17.84,1,8,19,21,15,0,4,4,0,44,27,6,2.17,.920,0.0,0.0,15.5,15.5
+2008,Joe Thornton,28,San Jose Sharks,C,157,11.72,0,3,16,14,14,29,67,96,18,,,,,,8.6,3.3,0.0,11.9
+2008,Evgeni Nabokov,32,San Jose Sharks,G,109,8.13,0,1,12,9,15,0,2,2,0,46,21,8,2.14,.910,0.0,0.0,11.2,11.2
+2008,Alex Kovalev,34,Montreal Canadiens,RW,94,7.01,0,1,5,15,17,35,49,84,18,,,,,,8.4,2.4,0.0,10.8
+2008,Pavel Datsyuk,29,Detroit Red Wings,C,43,3.21,0,1,2,7,5,31,66,97,41,,,,,,8.8,3.7,0.0,12.6
+2008,Henrik Zetterberg,27,Detroit Red Wings,LW,17,1.27,0,0,2,1,4,43,49,92,30,,,,,,9.9,3.2,0.0,13.0
+2008,Marian Gaborik,25,Minnesota Wild,RW,9,0.67,0,0,0,2,3,42,41,83,17,,,,,,9.2,2.5,0.0,11.6
+2008,Roberto Luongo,28,Vancouver Canucks,G,7,0.52,0,1,0,0,0,0,3,3,0,35,29,9,2.38,.917,0.0,0.0,14.4,14.4
+2008,Dion Phaneuf,22,Calgary Flames,D,7,0.52,0,1,0,0,0,17,43,60,12,,,,,,6.1,5.1,0.0,11.2
+2008,Zdeno Chara,30,Boston Bruins,D,4,0.30,0,0,0,1,1,17,34,51,14,,,,,,5.1,5.4,0.0,10.5
+2008,Ilya Kovalchuk,24,Atlanta Thrashers,LW,4,0.30,0,0,0,1,1,52,35,87,-12,,,,,,10.7,1.3,0.0,12.0
+2008,Daniel Alfredsson,35,Ottawa Senators,RW,3,0.22,0,0,0,0,3,40,49,89,15,,,,,,9.7,1.8,0.0,11.5
+2008,Sidney Crosby,20,Pittsburgh Penguins,C,2,0.15,0,0,0,0,2,24,48,72,18,,,,,,7.2,1.9,0.0,9.0
+2008,Sergei Gonchar,33,Pittsburgh Penguins,D,2,0.15,0,0,0,0,2,12,53,65,13,,,,,,6.0,5.2,0.0,11.1
+2008,Vincent Lecavalier,27,Tampa Bay Lightning,C,2,0.15,0,0,0,0,2,40,52,92,-17,,,,,,9.1,1.6,0.0,10.7
+2008,Scott Niedermayer,34,Anaheim Ducks,D,2,0.15,0,0,0,0,2,8,17,25,-2,,,,,,2.3,2.7,0.0,5.0
+2009,Alex Ovechkin,23,Washington Capitals,LW,1264,95.04,115,14,2,2,0,56,54,110,8,,,,,,12.5,2.0,0.0,14.5
+2009,Evgeni Malkin,22,Pittsburgh Penguins,C,787,59.17,12,71,27,9,8,35,78,113,17,,,,,,10.2,2.4,0.0,12.6
+2009,Pavel Datsyuk,30,Detroit Red Wings,C,404,30.38,4,14,38,19,19,32,65,97,34,,,,,,8.9,2.6,0.0,11.5
+2009,Steve Mason,20,Columbus Blue Jackets,G,266,20.00,0,13,21,18,16,0,0,0,0,33,20,7,2.29,.916,0.0,0.0,11.2,11.2
+2009,Zach Parise,24,New Jersey Devils,LW,257,19.32,0,5,20,31,29,45,49,94,30,,,,,,9.9,2.9,0.0,12.8
+2009,Sidney Crosby,21,Pittsburgh Penguins,C,103,7.74,0,3,5,13,18,33,70,103,3,,,,,,9.4,1.7,0.0,11.1
+2009,Tim Thomas,34,Boston Bruins,G,100,7.52,0,3,9,7,13,0,1,1,0,36,11,7,2.10,.933,0.0,0.0,14.7,14.7
+2009,Zdeno Chara,31,Boston Bruins,D,79,5.94,2,3,2,8,4,19,31,50,23,,,,,,4.8,5.7,0.0,10.5
+2009,Joe Thornton,29,San Jose Sharks,C,27,2.03,0,2,1,2,2,25,61,86,16,,,,,,6.8,2.7,0.0,9.5
+2009,Roberto Luongo,29,Vancouver Canucks,G,19,1.43,0,2,0,1,2,0,1,1,0,33,13,7,2.34,.920,0.0,0.0,11.1,11.1
+2009,Jeff Carter,24,Philadelphia Flyers,C,19,1.43,0,1,0,2,6,46,38,84,23,,,,,,9.2,2.5,0.0,11.7
+2009,Jarome Iginla,31,Calgary Flames,RW,19,1.43,0,0,2,2,3,35,54,89,-2,,,,,,7.8,1.7,0.0,9.5
+2009,Rick Nash,24,Columbus Blue Jackets,LW,13,0.98,0,0,1,2,2,40,39,79,11,,,,,,7.9,2.2,0.0,10.1
+2009,Mike Green,23,Washington Capitals,D,13,0.98,0,0,2,1,0,31,42,73,24,,,,,,9.0,4.9,0.0,13.9
+2009,Ryan Getzlaf,23,Anaheim Ducks,C,11,0.83,0,0,1,2,0,25,66,91,5,,,,,,7.3,1.9,0.0,9.2
+2009,Evgeni Nabokov,33,San Jose Sharks,G,8,0.60,0,0,1,1,0,0,1,1,0,41,12,8,2.44,.910,0.0,0.0,10.2,10.2
+2009,Nicklas Lidstrom,38,Detroit Red Wings,D,7,0.53,0,0,1,0,0,16,43,59,31,,,,,,5.5,5.7,0.0,11.2
+2009,Patrick Marleau,29,San Jose Sharks,LW,7,0.53,0,0,0,2,1,38,33,71,16,,,,,,6.5,2.7,0.0,9.2
+2009,Cam Ward,24,Carolina Hurricanes,G,7,0.53,0,0,0,2,1,0,1,1,0,39,23,5,2.44,.916,0.0,0.0,12.9,12.9
+2009,Henrik Zetterberg,28,Detroit Red Wings,C,6,0.45,0,0,0,1,3,31,42,73,13,,,,,,6.4,1.7,0.0,8.1
+2009,Miikka Kiprusoff,32,Calgary Flames,G,6,0.45,0,0,0,2,0,0,3,3,0,45,24,5,2.84,.903,0.0,0.0,11.5,11.5
+2009,Chris Mason,32,St. Louis Blues,G,4,0.30,0,0,0,1,1,0,1,1,0,27,21,7,2.41,.916,0.0,0.0,10.6,10.6
+2009,Eric Staal,24,Carolina Hurricanes,C,4,0.30,0,0,0,1,1,40,35,75,15,,,,,,7.1,2.7,0.0,9.8
+2009,Dan Boyle,32,San Jose Sharks,D,3,0.23,0,0,0,1,0,16,41,57,6,,,,,,5.2,5.3,0.0,10.6
+2009,Marian Hossa,30,Detroit Red Wings,RW,3,0.23,0,0,0,1,0,40,31,71,27,,,,,,7.7,2.1,0.0,9.9
+2009,Mike Richards,23,Philadelphia Flyers,C,1,0.08,0,0,0,0,1,30,50,80,22,,,,,,7.0,2.4,0.0,9.4
+2009,Marc Savard,31,Boston Bruins,C,1,0.08,0,0,0,0,1,25,63,88,25,,,,,,7.3,2.5,0.0,9.8
+2010,Henrik Sedin,29,Vancouver Canucks,C,894,67.22,46,34,27,19,4,29,83,112,35,,,,,,10.6,2.9,0.0,13.5
+2010,Alex Ovechkin,24,Washington Capitals,LW,834,62.71,40,35,22,22,13,50,59,109,45,,,,,,13.0,2.5,0.0,15.6
+2010,Sidney Crosby,22,Pittsburgh Penguins,C,729,54.81,20,35,38,29,7,51,58,109,15,,,,,,12.2,2.4,0.0,14.7
+2010,Ryan Miller,29,Buffalo Sabres,G,505,37.97,13,22,24,27,20,0,0,0,0,41,18,8,2.22,.929,0.0,0.0,16.8,16.8
+2010,Ilya Bryzgalov,29,Phoenix Coyotes,G,354,26.62,13,6,17,22,31,0,1,1,0,42,20,6,2.29,.920,0.0,0.0,13.9,13.9
+2010,Steven Stamkos,19,Tampa Bay Lightning,C,28,2.11,0,0,2,3,9,51,44,95,-2,,,,,,10.9,1.9,0.0,12.8
+2010,Patrick Kane,21,Chicago Blackhawks,RW,17,1.28,0,1,0,2,4,30,58,88,16,,,,,,8.1,2.2,0.0,10.3
+2010,Martin Brodeur,37,New Jersey Devils,G,16,1.20,0,0,2,0,6,0,3,3,0,45,25,6,2.24,.916,0.0,0.0,13.2,13.2
+2010,Craig Anderson,28,Colorado Avalanche,G,10,0.75,1,0,0,0,0,0,3,3,0,38,25,7,2.63,.917,0.0,0.0,14.8,14.8
+2010,Patrick Marleau,30,San Jose Sharks,C,10,0.75,0,0,0,3,1,44,39,83,21,,,,,,8.8,2.6,0.0,11.4
+2010,Nicklas Backstrom,22,Washington Capitals,C,10,0.75,0,0,0,2,4,33,68,101,37,,,,,,10.0,2.2,0.0,12.2
+2010,Joe Thornton,30,San Jose Sharks,C,9,0.68,0,0,0,1,6,20,69,89,17,,,,,,7.3,2.2,0.0,9.6
+2010,Zach Parise,25,New Jersey Devils,C,7,0.53,0,0,1,0,2,38,44,82,24,,,,,,8.4,3.1,0.0,11.5
+2010,Mike Green,24,Washington Capitals,D,5,0.38,0,0,0,1,2,19,57,76,39,,,,,,8.2,4.8,0.0,13.0
+2010,Duncan Keith,26,Chicago Blackhawks,D,3,0.23,0,0,0,0,3,14,55,69,21,,,,,,6.3,6.2,0.0,12.6
+2010,Zdeno Chara,32,Boston Bruins,D,3,0.23,0,0,0,1,0,7,37,44,19,,,,,,3.1,7.2,0.0,10.2
+2010,Martin St. Louis,34,Tampa Bay Lightning,RW,2,0.15,0,0,0,0,2,29,65,94,-8,,,,,,8.1,1.8,0.0,9.9
+2010,Tuukka Rask,22,Boston Bruins,G,2,0.15,0,0,0,0,2,0,3,3,0,22,12,5,1.97,.931,0.0,0.0,10.2,10.2
+2010,Nicklas Lidstrom,39,Detroit Red Wings,D,2,0.15,0,0,0,0,2,9,40,49,22,,,,,,3.8,6.9,0.0,10.7
+2010,Anze Kopitar,22,Los Angeles Kings,C,2,0.15,0,0,0,0,2,34,47,81,6,,,,,,7.2,2.2,0.0,9.5
+2010,Marian Gaborik,27,New York Rangers,RW,2,0.15,0,0,0,0,2,42,44,86,15,,,,,,9.4,2.6,0.0,12.1
+2010,Drew Doughty,20,Los Angeles Kings,D,2,0.15,0,0,0,0,2,16,43,59,20,,,,,,5.6,6.2,0.0,11.9
+2010,Shea Weber,24,Nashville Predators,D,1,0.08,0,0,0,0,1,16,27,43,0,,,,,,4.3,3.9,0.0,8.2
+2010,Tomas Vokoun,33,Florida Panthers,G,1,0.08,0,0,0,0,1,0,2,2,0,23,28,11,2.55,.925,0.0,0.0,15.7,15.7
+2010,Paul Stastny,24,Colorado Avalanche,C,1,0.08,0,0,0,0,1,20,59,79,2,,,,,,5.6,1.8,0.0,7.4
+2010,Chris Pronger,35,Philadelphia Flyers,D,1,0.08,0,0,0,0,1,10,45,55,22,,,,,,4.6,6.8,0.0,11.4
+2010,Evgeni Nabokov,34,San Jose Sharks,G,1,0.08,0,0,0,0,1,0,0,0,0,44,16,10,2.43,.922,0.0,0.0,15.6,15.6
+2010,Henrik Lundqvist,27,New York Rangers,G,1,0.08,0,0,0,0,1,0,1,1,0,35,27,10,2.38,.921,0.0,0.0,15.0,15.0
+2010,Henrik Zetterberg,29,Detroit Red Wings,LW,1,0.08,0,0,0,0,1,23,47,70,12,,,,,,5.8,2.4,0.0,8.2
+2011,Corey Perry,25,Anaheim Ducks,RW,1043,82.78,67,47,8,1,1,50,48,98,9,,,,,,10.8,2.5,0.0,13.3
+2011,Daniel Sedin,30,Vancouver Canucks,LW,960,76.19,51,56,9,4,1,41,63,104,30,,,,,,11.5,2.8,0.0,14.3
+2011,Martin St. Louis,35,Tampa Bay Lightning,RW,332,26.35,1,6,36,28,16,31,68,99,0,,,,,,9.3,2.0,0.0,11.3
+2011,Pekka Rinne,28,Nashville Predators,G,175,13.89,1,2,17,17,15,0,0,0,0,33,22,9,2.12,.930,0.0,0.0,15.1,15.1
+2011,Tim Thomas,36,Boston Bruins,G,171,13.57,1,5,15,12,15,0,3,3,0,35,11,9,2.00,.938,0.0,0.0,16.2,16.2
+2011,Jonathan Toews,22,Chicago Blackhawks,C,107,8.49,0,2,7,15,13,32,44,76,25,,,,,,7.1,2.7,0.0,9.8
+2011,Carey Price,23,Montreal Canadiens,G,90,7.14,2,0,10,4,8,0,2,2,0,38,28,6,2.35,.923,0.0,0.0,15.4,15.4
+2011,Ryan Kesler,26,Vancouver Canucks,C,69,5.48,1,3,4,5,3,41,32,73,24,,,,,,7.6,2.7,0.0,10.4
+2011,Marc-Andre Fleury,26,Pittsburgh Penguins,G,58,4.60,1,3,1,6,4,0,1,1,0,36,20,5,2.32,.918,0.0,0.0,11.4,11.4
+2011,Henrik Sedin,30,Vancouver Canucks,C,57,4.52,0,1,3,8,4,19,75,94,26,,,,,,7.8,2.7,0.0,10.5
+2011,Steven Stamkos,20,Tampa Bay Lightning,C,41,3.25,0,0,2,9,4,45,46,91,3,,,,,,10.1,2.0,0.0,12.2
+2011,Jarome Iginla,33,Calgary Flames,RW,31,2.46,0,1,1,4,7,43,43,86,0,,,,,,9.2,1.8,0.0,11.0
+2011,Zdeno Chara,33,Boston Bruins,D,23,1.83,0,0,2,4,1,14,30,44,33,,,,,,4.0,6.0,0.0,10.0
+2011,Alex Ovechkin,25,Washington Capitals,LW,19,1.51,0,0,0,4,7,32,53,85,24,,,,,,8.1,3.0,0.0,11.1
+2011,Henrik Lundqvist,28,New York Rangers,G,19,1.51,0,0,1,2,8,0,4,4,0,36,27,5,2.28,.923,0.0,0.0,14.0,14.0
+2011,Henrik Zetterberg,30,Detroit Red Wings,LW,16,1.27,0,0,2,1,3,24,56,80,-1,,,,,,6.8,1.4,0.0,8.2
+2011,Roberto Luongo,31,Vancouver Canucks,G,15,1.19,1,0,1,0,0,0,3,3,0,38,15,7,2.11,.928,0.0,0.0,13.6,13.6
+2011,Ilya Bryzgalov,30,Phoenix Coyotes,G,13,1.03,0,0,2,0,3,0,0,0,0,36,20,10,2.48,.921,0.0,0.0,14.7,14.7
+2011,Nicklas Lidstrom,40,Detroit Red Wings,D,11,0.87,0,0,2,0,1,16,46,62,-2,,,,,,6.2,3.3,0.0,9.5
+2011,Kris Letang,23,Pittsburgh Penguins,D,5,0.40,0,0,1,0,0,8,42,50,15,,,,,,4.1,5.7,0.0,9.8
+2011,Ryan Getzlaf,25,Anaheim Ducks,C,5,0.40,0,0,1,0,0,19,57,76,14,,,,,,6.1,2.3,0.0,8.4
+2011,Sidney Crosby,23,Pittsburgh Penguins,C,5,0.40,0,0,1,0,0,32,34,66,20,,,,,,8.2,1.9,0.0,10.1
+2011,Chris Pronger,36,Philadelphia Flyers,D,3,0.24,0,0,0,1,0,4,21,25,7,,,,,,1.9,2.3,0.0,4.2
+2011,Lubomir Visnovsky,34,Anaheim Ducks,D,3,0.24,0,0,0,1,0,18,50,68,18,,,,,,7.0,5.8,0.0,12.8
+2011,Shea Weber,25,Nashville Predators,D,2,0.16,0,0,0,0,2,16,32,48,7,,,,,,4.6,5.5,0.0,10.1
+2011,Patrick Marleau,31,San Jose Sharks,C,1,0.08,0,0,0,0,1,37,36,73,-3,,,,,,7.1,1.7,0.0,8.8
+2011,Ryan Miller,30,Buffalo Sabres,G,1,0.08,0,0,0,0,1,0,2,2,0,34,22,8,2.59,.916,0.0,0.0,12.4,12.4
+2011,Keith Yandle,24,Phoenix Coyotes,D,1,0.08,0,0,0,0,1,11,48,59,12,,,,,,5.4,4.5,0.0,9.9
+2012,Evgeni Malkin,25,Pittsburgh Penguins,C,1473,98.86,144,4,1,0,0,50,59,109,18,,,,,,13.4,2.3,0.0,15.7
+2012,Steven Stamkos,21,Tampa Bay Lightning,C,598,40.13,1,54,24,24,18,60,37,97,7,,,,,,12.8,1.9,0.0,14.6
+2012,Henrik Lundqvist,29,New York Rangers,G,556,37.32,3,35,36,28,17,0,2,2,0,39,18,5,1.97,.930,0.0,0.0,14.1,14.1
+2012,Claude Giroux,24,Philadelphia Flyers,RW,458,30.74,0,25,34,28,29,28,65,93,6,,,,,,8.9,1.6,0.0,10.6
+2012,Jonathan Quick,26,Los Angeles Kings,G,357,23.96,1,22,23,19,21,0,2,2,0,35,21,13,1.95,.929,0.0,0.0,14.7,14.7
+2012,Jason Spezza,28,Ottawa Senators,C,134,8.99,0,2,14,11,17,34,50,84,11,,,,,,8.8,1.7,0.0,10.5
+2012,Pekka Rinne,29,Nashville Predators,G,64,4.30,0,4,2,6,8,0,5,5,0,43,18,8,2.39,.923,0.0,0.0,15.5,15.5
+2012,Erik Karlsson,21,Ottawa Senators,D,52,3.49,0,0,4,7,11,19,59,78,16,,,,,,8.6,4.5,0.0,13.1
+2012,Henrik Sedin,31,Vancouver Canucks,C,40,2.68,0,2,2,5,1,14,67,81,23,,,,,,6.1,2.6,0.0,8.7
+2012,Ilya Kovalchuk,28,New Jersey Devils,LW,38,2.55,0,1,2,5,6,37,46,83,-9,,,,,,8.2,2.3,0.0,10.5
+2012,Mike Smith,29,Phoenix Coyotes,G,16,1.07,0,0,0,4,4,0,2,2,0,38,18,10,2.21,.930,0.0,0.0,16.7,16.7
+2012,Zdeno Chara,34,Boston Bruins,D,15,1.01,0,0,1,3,1,12,40,52,33,,,,,,5.1,5.9,0.0,10.9
+2012,Shea Weber,26,Nashville Predators,D,12,0.81,0,0,1,2,1,19,30,49,21,,,,,,5.2,6.2,0.0,11.4
+2012,Pavel Datsyuk,33,Detroit Red Wings,C,11,0.74,0,0,1,1,3,19,48,67,21,,,,,,5.7,2.2,0.0,7.9
+2012,Brian Elliott,26,St. Louis Blues,G,10,0.67,0,0,1,1,2,0,0,0,0,23,10,4,1.56,.940,0.0,0.0,9.0,9.0
+2012,Ray Whitney,39,Phoenix Coyotes,LW,8,0.54,0,0,1,1,0,24,53,77,26,,,,,,6.9,2.8,0.0,9.7
+2012,Marian Gaborik,29,New York Rangers,RW,8,0.54,0,0,1,0,3,41,35,76,15,,,,,,8.6,2.6,0.0,11.2
+2012,Patrice Bergeron,26,Boston Bruins,C,7,0.47,0,0,0,2,1,22,42,64,36,,,,,,5.7,2.7,0.0,8.3
+2012,David Backes,27,St. Louis Blues,RW,6,0.40,0,0,1,0,1,24,30,54,15,,,,,,4.2,2.8,0.0,7.0
+2012,Brian Campbell,32,Florida Panthers,D,3,0.20,0,0,0,1,0,4,49,53,-9,,,,,,3.8,4.6,0.0,8.4
+2012,Radim Vrbata,30,Phoenix Coyotes,RW,3,0.20,0,0,0,1,0,35,27,62,24,,,,,,6.8,2.6,0.0,9.3
+2012,Jamie Benn,22,Dallas Stars,LW,2,0.13,0,0,0,0,2,26,37,63,15,,,,,,6.2,2.0,0.0,8.2
+2012,James Neal,24,Pittsburgh Penguins,LW,2,0.13,0,0,0,0,2,40,41,81,6,,,,,,9.3,1.7,0.0,11.0
+2012,Marian Hossa,33,Chicago Blackhawks,RW,1,0.07,0,0,0,0,1,29,48,77,18,,,,,,7.3,2.1,0.0,9.4
+2013,Alex Ovechkin,27,Washington Capitals,RW,1090,60.89,50,43,40,27,8,32,24,56,2,,,,,,7.0,1.0,0.0,8.0
+2013,Sidney Crosby,25,Pittsburgh Penguins,C,1058,59.11,46,42,41,29,12,15,41,56,26,,,,,,5.8,1.7,0.0,7.5
+2013,John Tavares,22,New York Islanders,C,919,51.34,38,38,33,29,21,28,19,47,-2,,,,,,5.6,1.0,0.0,6.6
+2013,Jonathan Toews,24,Chicago Blackhawks,C,886,49.50,39,35,29,29,19,23,25,48,28,,,,,,5.6,2.0,0.0,7.6
+2013,Sergei Bobrovsky,24,Columbus Blue Jackets,G,311,17.37,4,12,13,25,47,0,0,0,0,21,11,6,2.00,.932,0.0,0.0,9.2,9.2
+2013,Patrick Kane,24,Chicago Blackhawks,RW,157,8.77,2,6,9,14,8,23,32,55,11,,,,,,6.3,1.3,0.0,7.6
+2013,Ryan Getzlaf,27,Anaheim Ducks,C,96,5.36,0,0,8,11,23,15,34,49,14,,,,,,4.6,1.5,0.0,6.1
+2013,Steven Stamkos,22,Tampa Bay Lightning,C,28,1.56,0,1,2,2,5,29,28,57,-4,,,,,,6.4,0.7,0.0,7.1
+2013,Martin St. Louis,37,Tampa Bay Lightning,RW,20,1.12,0,1,0,2,7,17,43,60,0,,,,,,5.4,0.8,0.0,6.3
+2013,Pavel Datsyuk,34,Detroit Red Wings,C,18,1.01,0,0,1,2,7,15,34,49,21,,,,,,4.5,2.1,0.0,6.5
+2013,Antti Niemi,29,San Jose Sharks,G,11,0.61,0,0,0,1,8,0,1,1,0,24,12,6,2.16,.924,0.0,0.0,9.2,9.2
+2013,Craig Anderson,31,Ottawa Senators,G,10,0.56,0,1,0,1,0,0,0,0,0,12,9,2,1.69,.941,0.0,0.0,6.5,6.5
+2013,P.K. Subban,23,Montreal Canadiens,D,10,0.56,0,0,1,1,2,11,27,38,12,,,,,,4.3,2.9,0.0,7.1
+2013,Henrik Sedin,32,Vancouver Canucks,C,5,0.28,0,0,1,0,0,11,34,45,19,,,,,,3.8,1.9,0.0,5.6
+2013,Evgeni Nabokov,37,New York Islanders,G,5,0.28,0,0,1,0,0,0,4,4,0,23,11,7,2.50,.910,0.0,0.0,6.7,6.7
+2013,Chris Kunitz,33,Pittsburgh Penguins,LW,5,0.28,0,0,0,1,2,22,30,52,30,,,,,,5.8,2.0,0.0,7.8
+2013,Niklas Backstrom,34,Minnesota Wild,G,3,0.17,0,0,0,1,0,0,0,0,0,24,15,3,2.48,.909,0.0,0.0,6.2,6.2
+2013,Patrice Bergeron,27,Boston Bruins,C,3,0.17,0,0,0,1,0,10,22,32,24,,,,,,2.4,1.9,0.0,4.3
+2013,Ilya Kovalchuk,29,New Jersey Devils,LW,3,0.17,0,0,0,1,0,11,20,31,-6,,,,,,2.3,1.0,0.0,3.3
+2013,Carey Price,25,Montreal Canadiens,G,3,0.17,0,0,0,1,0,0,0,0,0,21,13,4,2.59,.905,0.0,0.0,5.4,5.4
+2013,Ryan Suter,28,Minnesota Wild,D,3,0.17,0,0,0,1,0,4,28,32,2,,,,,,2.4,3.6,0.0,6.0
+2013,Henrik Zetterberg,32,Detroit Red Wings,LW,3,0.17,0,0,0,0,3,11,37,48,2,,,,,,3.9,1.2,0.0,5.2
+2013,Francois Beauchemin,32,Anaheim Ducks,D,1,0.06,0,0,0,0,1,6,18,24,19,,,,,,2.0,3.8,0.0,5.8
+2013,Jeff Carter,28,Los Angeles Kings,C,1,0.06,0,0,0,0,1,26,7,33,0,,,,,,4.2,1.0,0.0,5.2
+2013,Pascal Dupuis,33,Pittsburgh Penguins,LW,1,0.06,0,0,0,0,1,20,18,38,31,,,,,,4.1,2.0,0.0,6.1
+2013,Henrik Lundqvist,30,New York Rangers,G,1,0.06,0,0,0,0,1,0,1,1,0,24,16,3,2.05,.926,0.0,0.0,9.3,9.3
+2013,Zach Parise,28,Minnesota Wild,C,1,0.06,0,0,0,0,1,18,20,38,2,,,,,,3.4,1.3,0.0,4.8
+2013,James Reimer,24,Toronto Maple Leafs,G,1,0.06,0,0,0,0,1,0,1,1,0,19,8,5,2.46,.924,0.0,0.0,7.5,7.5
+2013,Eric Staal,28,Carolina Hurricanes,C,1,0.06,0,0,0,0,1,18,35,53,5,,,,,,5.2,1.2,0.0,6.4
+2014,Sidney Crosby,26,Pittsburgh Penguins,C,1340,97.81,128,8,1,0,0,36,68,104,18,,,,,,10.7,2.8,0.0,13.5
+2014,Ryan Getzlaf,28,Anaheim Ducks,C,877,64.01,5,96,28,5,0,31,56,87,28,,,,,,8.8,2.4,0.0,11.2
+2014,Claude Giroux,26,Philadelphia Flyers,C,435,31.75,2,15,42,27,19,28,58,86,7,,,,,,8.1,2.1,0.0,10.2
+2014,Semyon Varlamov,25,Colorado Avalanche,G,256,18.69,1,8,23,22,9,0,3,3,,41,14,6,2.41,.927,0.0,0.0,15.5,15.5
+2014,Patrice Bergeron,28,Boston Bruins,C,137,10.00,0,4,9,17,13,30,32,62,38,,,,,,6.4,2.8,0.0,9.2
+2014,Tyler Seguin,22,Dallas Stars,C,84,6.13,0,1,6,12,11,37,47,84,16,,,,,,9.3,2.2,0.0,11.6
+2014,Joe Pavelski,29,San Jose Sharks,C,71,5.18,0,0,3,11,23,41,38,79,23,,,,,,8.8,2.8,0.0,11.5
+2014,Anze Kopitar,26,Los Angeles Kings,C,58,4.23,0,0,4,9,11,29,41,70,34,,,,,,6.4,3.7,0.0,10.0
+2014,Jonathan Toews,25,Chicago Blackhawks,C,53,3.87,0,2,4,4,7,28,40,68,26,,,,,,6.4,2.3,0.0,8.7
+2014,Ben Bishop,27,Tampa Bay Lightning,G,52,3.80,0,0,5,6,9,0,2,2,,37,14,7,2.23,.924,0.0,0.0,12.9,12.9
+2014,Tuukka Rask,26,Boston Bruins,G,35,2.55,0,1,2,5,3,0,2,2,,36,15,6,2.04,.930,0.0,0.0,13.1,13.1
+2014,Jamie Benn,24,Dallas Stars,C,35,2.55,0,1,2,4,6,34,45,79,21,,,,,,8.4,2.5,0.0,10.9
+2014,Corey Perry,28,Anaheim Ducks,RW,29,2.12,0,0,3,4,2,43,39,82,32,,,,,,9.7,2.5,0.0,12.3
+2014,Carey Price,26,Montreal Canadiens,G,20,1.46,1,0,1,0,5,0,2,2,,34,20,5,2.32,.927,0.0,0.0,13.9,13.9
+2014,Duncan Keith,30,Chicago Blackhawks,D,19,1.39,0,0,1,3,5,6,55,61,22,,,,,,5.1,4.9,0.0,10.0
+2014,Gustav Nyquist,24,Detroit Red Wings,RW,13,0.95,0,1,0,2,0,28,20,48,16,,,,,,6.0,1.7,0.0,7.7
+2014,Matt Duchene,23,Colorado Avalanche,C,11,0.80,0,0,1,1,3,23,47,70,8,,,,,,6.6,1.5,0.0,8.1
+2014,Alex Steen,29,St. Louis Blues,LW,9,0.66,0,0,1,1,1,33,29,62,17,,,,,,6.7,2.3,0.0,9.1
+2014,John Tavares,23,New York Islanders,C,9,0.66,0,0,1,1,1,24,42,66,-6,,,,,,6.7,1.1,0.0,7.7
+2014,Patrick Sharp,32,Chicago Blackhawks,LW,7,0.51,0,0,0,2,1,34,44,78,13,,,,,,8.2,1.8,0.0,10.0
+2014,Shea Weber,28,Nashville Predators,D,4,0.29,0,0,0,1,1,23,33,56,-2,,,,,,6.2,4.5,0.0,10.8
+2014,Joe Thornton,34,San Jose Sharks,C,3,0.22,0,0,0,0,3,11,65,76,20,,,,,,5.3,2.6,0.0,7.9
+2014,Jaromir Jagr,41,New Jersey Devils,RW,1,0.07,0,0,0,0,1,24,43,67,16,,,,,,5.8,2.9,0.0,8.7
+2014,Patrick Marleau,34,San Jose Sharks,LW,1,0.07,0,0,0,0,1,33,37,70,0,,,,,,6.7,1.8,0.0,8.6
+2014,Alex Ovechkin,28,Washington Capitals,LW,1,0.07,0,0,0,0,1,51,28,79,-35,,,,,,9.9,0.3,0.0,10.2
+2014,Ryan Suter,29,Minnesota Wild,D,1,0.07,0,0,0,0,1,8,35,43,15,,,,,,2.6,6.9,0.0,9.5
+2015,Carey Price,27,Montreal Canadiens,G,1498,95.41,139,14,2,0,0,0,1,1,0,44,16,6,1.96,.933,0.0,0.0,16.2,16.2
+2015,Alex Ovechkin,29,Washington Capitals,LW,888,56.56,8,75,45,18,4,53,28,81,10,,,,,,10.4,2.2,0.0,12.6
+2015,John Tavares,24,New York Islanders,C,739,47.07,4,41,63,27,16,38,48,86,5,,,,,,9.5,1.8,0.0,11.2
+2015,Devan Dubnyk,28,TOT,G,410,26.11,6,16,25,30,23,0,2,2,0,36,14,4,2.07,.929,0.0,0.0,12.6,12.6
+2015,Sidney Crosby,27,Pittsburgh Penguins,C,138,8.79,0,2,3,25,34,28,56,84,5,,,,,,8.2,2.0,0.0,10.3
+2015,Ryan Getzlaf,29,Anaheim Ducks,C,124,7.90,0,2,6,20,20,25,45,70,15,,,,,,6.5,2.1,0.0,8.6
+2015,Rick Nash,30,New York Rangers,LW,70,4.46,0,1,4,9,16,42,27,69,29,,,,,,8.9,2.5,0.0,11.4
+2015,Pekka Rinne,32,Nashville Predators,G,49,3.12,0,2,4,4,3,0,1,1,0,41,17,6,2.18,.923,0.0,0.0,12.6,12.6
+2015,Erik Karlsson,24,Ottawa Senators,D,32,2.04,0,1,1,5,5,21,45,66,7,,,,,,7.2,4.7,0.0,11.9
+2015,Jonathan Toews,26,Chicago Blackhawks,C,31,1.97,0,1,3,2,3,28,38,66,30,,,,,,6.2,3.2,0.0,9.4
+2015,Steven Stamkos,24,Tampa Bay Lightning,C,29,1.85,0,1,0,5,7,43,29,72,2,,,,,,8.6,1.5,0.0,10.1
+2015,Jamie Benn,25,Dallas Stars,LW,23,1.46,0,0,0,5,8,35,52,87,1,,,,,,9.3,1.5,0.0,10.7
+2015,Jiri Hudler,31,Calgary Flames,C,16,1.02,0,1,0,3,0,31,45,76,17,,,,,,7.9,2.2,0.0,10.2
+2015,Vladimir Tarasenko,23,St. Louis Blues,RW,14,0.89,0,0,0,3,5,37,36,73,27,,,,,,8.5,2.6,0.0,11.2
+2015,Andrew Hammond,26,Ottawa Senators,G,9,0.57,0,0,0,1,6,0,1,1,0,20,1,2,1.79,.941,0.0,0.0,6.5,6.5
+2015,P.K. Subban,25,Montreal Canadiens,D,5,0.32,0,0,1,0,0,15,45,60,21,,,,,,5.8,6.6,0.0,12.4
+2015,Drew Doughty,25,Los Angeles Kings,D,2,0.13,0,0,0,0,2,7,39,46,3,,,,,,3.0,5.6,0.0,8.6
+2015,Zach Parise,30,Minnesota Wild,LW,1,0.06,0,0,0,0,1,33,29,62,21,,,,,,6.9,2.5,0.0,9.4
+2015,Braden Holtby,25,Washington Capitals,G,1,0.06,0,0,0,0,1,0,2,2,0,41,20,10,2.22,.923,0.0,0.0,14.4,14.4
+2015,Marc-Andre Fleury,30,Pittsburgh Penguins,G,1,0.06,0,0,0,0,1,0,1,1,0,34,20,9,2.32,.920,0.0,0.0,12.2,12.2
+2015,Dustin Byfuglien,29,Winnipeg Jets,D,1,0.06,0,0,0,0,1,18,27,45,5,,,,,,5.3,3.5,0.0,8.8
+2015,Shea Weber,29,Nashville Predators,D,1,0.06,0,0,0,0,1,15,30,45,15,,,,,,4.2,5.4,0.0,9.6
+2016,Patrick Kane,27,Chicago Blackhawks,RW,1395,93.00,121,22,5,2,0,46,60,106,17,,,,,,12.4,2.6,0.0,15.0
+2016,Sidney Crosby,28,Pittsburgh Penguins,C,800,53.33,11,64,31,24,15,36,49,85,19,,,,,,9.1,2.4,0.0,11.5
+2016,Jamie Benn,26,Dallas Stars,LW,637,42.47,8,34,40,34,17,41,48,89,7,,,,,,10.3,1.7,0.0,12.1
+2016,Braden Holtby,26,Washington Capitals,G,292,19.47,5,13,19,13,17,0,1,1,0,48,9,7,2.20,.922,0.0,0.0,12.1,12.1
+2016,Joe Thornton,36,San Jose Sharks,C,267,17.80,0,8,19,31,23,19,63,82,25,,,,,,7.1,2.9,0.0,10.0
+2016,Alex Ovechkin,30,Washington Capitals,LW,212,14.13,2,6,18,13,21,50,21,71,21,,,,,,9.1,2.6,0.0,11.7
+2016,Jaromir Jagr,43,Florida Panthers,RW,60,4.00,1,1,5,4,6,27,39,66,23,,,,,,6.9,2.3,0.0,9.2
+2016,Anze Kopitar,28,Los Angeles Kings,C,53,3.53,1,0,2,8,9,25,49,74,34,,,,,,6.5,3.3,0.0,9.7
+2016,Erik Karlsson,25,Ottawa Senators,D,44,2.93,0,1,4,2,11,16,66,82,-2,,,,,,8.4,3.2,0.0,11.7
+2016,Ben Bishop,29,Tampa Bay Lightning,G,42,2.80,1,1,1,4,8,0,1,1,0,35,21,4,2.06,.926,0.0,0.0,12.2,12.2
+2016,Drew Doughty,26,Los Angeles Kings,D,29,1.93,0,0,2,5,4,14,37,51,24,,,,,,4.5,7.1,0.0,11.6
+2016,Vladimir Tarasenko,24,St. Louis Blues,RW,13,0.87,0,0,1,1,5,40,34,74,7,,,,,,8.7,2.1,0.0,10.8
+2016,John Tavares,25,New York Islanders,C,10,0.67,0,0,0,2,4,33,37,70,6,,,,,,7.4,1.9,0.0,9.3
+2016,Joe Pavelski,31,San Jose Sharks,C,8,0.53,0,0,0,2,2,38,40,78,25,,,,,,8.4,3.0,0.0,11.5
+2016,Roberto Luongo,36,Florida Panthers,G,8,0.53,0,0,0,1,5,0,2,2,0,35,19,6,2.35,.922,0.0,0.0,12.1,12.1
+2016,Claude Giroux,28,Philadelphia Flyers,C,6,0.40,0,0,1,0,1,22,45,67,-8,,,,,,5.4,1.5,0.0,6.9
+2016,Cory Schneider,29,New Jersey Devils,G,5,0.33,0,0,1,0,0,0,0,0,0,27,25,6,2.15,.924,0.0,0.0,11.1,11.1
+2016,Henrik Lundqvist,33,New York Rangers,G,5,0.33,0,0,1,0,0,0,4,4,0,35,21,7,2.48,.920,0.0,0.0,12.6,12.6
+2016,Evgeny Kuznetsov,23,Washington Capitals,C,4,0.27,0,0,0,1,1,20,57,77,27,,,,,,6.9,2.6,0.0,9.6
+2016,Brent Burns,30,San Jose Sharks,D,3,0.20,0,0,0,1,0,27,48,75,-5,,,,,,8.8,4.1,0.0,12.9
+2016,Ryan Getzlaf,30,Anaheim Ducks,C,3,0.20,0,0,0,1,0,13,50,63,14,,,,,,4.4,2.6,0.0,7.0
+2016,Ryan Kesler,31,Anaheim Ducks,C,3,0.20,0,0,0,1,0,21,32,53,5,,,,,,4.1,2.3,0.0,6.4
+2016,Kris Letang,28,Pittsburgh Penguins,D,1,0.07,0,0,0,0,1,16,51,67,9,,,,,,7.0,4.3,0.0,11.3
+2017,Connor McDavid,20,Edmonton Oilers,C,1604,96.05,147,17,3,0,0,30,70,100,27,,,,,,9.7,3.0,0.0,12.8
+2017,Sidney Crosby,29,Pittsburgh Penguins,C,1104,66.11,14,119,19,11,3,44,45,89,17,,,,,,10.5,1.7,0.0,12.3
+2017,Sergei Bobrovsky,28,Columbus Blue Jackets,G,469,28.08,4,17,40,29,23,0,0,0,0,41,17,5,2.06,.931,0.0,0.0,14.9,14.9
+2017,Brent Burns,31,San Jose Sharks,D,273,16.35,1,3,25,29,30,29,47,76,19,,,,,,8.9,6.4,0.0,15.3
+2017,Erik Karlsson,26,Ottawa Senators,D,258,15.45,0,5,28,23,14,17,54,71,10,,,,,,7.2,5.7,0.0,12.9
+2017,Patrick Kane,28,Chicago Blackhawks,RW,206,12.34,0,3,20,20,25,34,55,89,11,,,,,,8.7,2.1,0.0,10.8
+2017,Brad Marchand,28,Boston Bruins,LW,184,11.02,1,1,14,22,31,39,46,85,18,,,,,,9.8,2.8,0.0,12.6
+2017,Nikita Kucherov,23,Tampa Bay Lightning,RW,119,7.13,0,0,11,15,19,40,45,85,13,,,,,,9.7,2.2,0.0,12.0
+2017,Nicklas Backstrom,29,Washington Capitals,C,60,3.59,0,0,3,11,12,23,63,86,17,,,,,,7.8,2.1,0.0,9.9
+2017,Braden Holtby,27,Washington Capitals,G,19,1.14,0,0,2,3,0,0,0,0,0,42,13,6,2.07,.925,0.0,0.0,12.3,12.3
+2017,Auston Matthews,19,Toronto Maple Leafs,C,17,1.02,0,0,2,1,4,40,29,69,2,,,,,,8.2,1.5,0.0,9.7
+2017,Alex Ovechkin,31,Washington Capitals,LW,7,0.42,0,1,0,0,0,33,36,69,6,,,,,,7.0,1.7,0.0,8.7
+2017,Ryan Suter,32,Minnesota Wild,D,7,0.42,0,1,0,0,0,9,31,40,34,,,,,,2.7,6.6,0.0,9.3
+2017,Victor Hedman,26,Tampa Bay Lightning,D,5,0.30,0,0,0,1,2,16,56,72,3,,,,,,7.3,4.7,0.0,12.0
+2017,Devan Dubnyk,30,Minnesota Wild,G,4,0.24,0,0,0,1,1,0,0,0,0,40,19,5,2.25,.923,0.0,0.0,13.1,13.1
+2017,Vladimir Tarasenko,25,St. Louis Blues,RW,4,0.24,0,0,0,1,1,39,36,75,-1,,,,,,8.4,1.7,0.0,10.2
+2017,Cam Atkinson,27,Columbus Blue Jackets,RW,1,0.06,0,0,0,0,1,35,27,62,13,,,,,,6.8,2.0,0.0,8.9
+2017,Cam Talbot,29,Edmonton Oilers,G,1,0.06,0,0,0,0,1,0,0,0,0,42,22,8,2.39,.919,0.0,0.0,14.0,14.0
+2018,Taylor Hall,26,New Jersey Devils,LW,1264,77.07,72,62,19,4,3,39,54,93,14,,,,,,9.9,2.3,0.0,12.2
+2018,Nathan MacKinnon,22,Colorado Avalanche,C,1194,72.80,60,66,19,11,4,39,58,97,11,,,,,,10.0,2.2,0.0,12.2
+2018,Anze Kopitar,30,Los Angeles Kings,C,551,33.60,11,11,41,49,12,35,57,92,21,,,,,,7.9,3.1,0.0,11.0
+2018,Claude Giroux,30,Philadelphia Flyers,C/RW,546,33.29,10,10,44,45,21,34,68,102,28,,,,,,9.0,2.8,0.0,11.8
+2018,Connor McDavid,21,Edmonton Oilers,C,270,16.46,6,5,19,16,32,41,67,108,20,,,,,,10.5,2.6,0.0,13.1
+2018,Nikita Kucherov,24,Tampa Bay Lightning,RW,166,10.12,0,6,8,15,39,39,61,100,15,,,,,,9.8,1.8,0.0,11.6
+2018,Evgeni Malkin,31,Pittsburgh Penguins,C,97,5.91,3,2,6,5,8,42,56,98,16,,,,,,10.2,2.2,0.0,12.4
+2018,Blake Wheeler,31,Winnipeg Jets,RW,69,4.21,1,2,1,6,22,23,68,91,13,,,,,,7.1,2.1,0.0,9.2
+2018,Alex Ovechkin,32,Washington Capitals,LW,37,2.26,0,0,2,5,12,49,38,87,3,,,,,,9.3,1.9,0.0,11.2
+2018,William Karlsson,25,Vegas Golden Knights,C,32,1.95,1,0,3,2,1,43,35,78,49,,,,,,8.3,3.5,0.0,11.8
+2018,Brad Marchand,29,Boston Bruins,LW,10,0.61,0,0,2,0,0,34,51,85,25,,,,,,8.4,2.5,0.0,11.0
+2018,Pekka Rinne,35,Nashville Predators,G,9,0.55,0,0,0,2,3,0,1,1,0,42,13,4,2.31,.927,0.0,0.0,13.2,13.2
+2018,Connor Hellebuyck,24,Winnipeg Jets,G,5,0.30,0,0,0,1,2,0,2,2,0,44,11,9,2.36,.924,0.0,0.0,14.0,14.0
+2018,Artemi Panarin,26,Columbus Blue Jackets,LW,4,0.24,0,0,0,1,1,27,55,82,23,,,,,,6.8,2.6,0.0,9.4
+2018,Sergei Bobrovsky,29,Columbus Blue Jackets,G,3,0.18,0,0,0,1,0,0,3,3,0,37,22,6,2.42,.921,0.0,0.0,12.9,12.9
+2018,Drew Doughty,28,Los Angeles Kings,D,3,0.18,0,0,0,1,0,10,50,60,23,,,,,,4.4,7.3,0.0,11.7
+2018,Patrice Bergeron,32,Boston Bruins,C,1,0.06,0,0,0,0,1,30,33,63,21,,,,,,6.0,2.3,0.0,8.3
+2018,Sidney Crosby,30,Pittsburgh Penguins,C,1,0.06,0,0,0,0,1,29,60,89,0,,,,,,7.3,1.8,0.0,9.1
+2018,Victor Hedman,27,Tampa Bay Lightning,D,1,0.06,0,0,0,0,1,17,46,63,32,,,,,,5.7,5.2,0.0,11.0
+2018,Eric Staal,33,Minnesota Wild,C,1,0.06,0,0,0,0,1,42,34,76,8,,,,,,8.0,1.8,0.0,9.8
